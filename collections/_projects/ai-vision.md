@@ -21,7 +21,7 @@ hero:
   fullscreen_desktop: true
 # when fullscree_desktop option is false, height: "600px"
   buttons:
-    enabled: true
+    enabled: false
     list:
       - text: "Buy Now"
         url: "https://www.zerostatic.io/theme/jekyll-advance/"
@@ -56,7 +56,7 @@ RGA는 글로벌 톱 수준의 역량을 갖춘 인재를 원하며 그들 간�
 여러분들은 지금 무엇을 만들고 계십니까?
 까만 설탕물을 버려할 때가 왔습니다. 
 
-### 'Realize the Great Ambition, RGA '
+### Realize the Great Ambition, RGA
 
 ## 주요업무
 - Object detection / Face recognition / Gesture recognition / Depth estimation 등 perception 모델 deployment
