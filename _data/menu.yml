@@ -10,17 +10,17 @@ main:
     weight: 2
     child:
       - name: "Mechanical-design"
-        url: /services/web-development/
+        url: /services/Mechanical Design/
       - name: "Robot Control"
-        url: /services/user-experience/
+        url: /services/Robot Control/
       - name: "Perception"
-        url: /services/branding/
-      - name: "Locomotion"
-        url: /services/web-design/
+        url: /services/Perception/
+      - name: "Motion Planning"
+        url: /services/Motion planning/
       - name: "Design"
-        url: /services/seo/
+        url: /services/Design/
       - name: "Platform"
-        url: /services/software-engineering/
+        url: /services/Platform/
   - name: Careers
     url: /projects/
     weight: 3
