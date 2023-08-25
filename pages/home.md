@@ -37,15 +37,6 @@ hero:
         outline: true
         style: "light"
 
-services:
-  enabled: true
-  heading: "Our Research Area"
-  sub_heading: ""
-  limit: 6
-  sort: "weight" # 'date'
-  view_more_button_text: "View All Services"
-  view_more_button_link: "/services"
-
 intro:
   enabled: true
   align: left
@@ -86,6 +77,16 @@ buttons:
         outline: false
         style: "primary"
         
+
+services:
+  enabled: true
+  heading: "Our Research Area"
+  sub_heading: ""
+  limit: 6
+  sort: "weight" # 'date'
+  view_more_button_text: "View All Services"
+  view_more_button_link: "/services"
+      
 partners:
   enabled: false
   limit: 5
