@@ -31,6 +31,7 @@ hero:
         outline: true
         style: "primary"
 ---
+
 ## Introduction
 RGA는 기업입니다.
 RGA는 '스타트업' 이 아닙니다.
