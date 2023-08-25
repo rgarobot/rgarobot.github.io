@@ -18,7 +18,7 @@ hero:
   background_image: "/assets/images/gen/projects/project-2-1.webp"
   background_image_blend_mode: false
   fullscreen_mobile: false
-  fullscreen_desktop: true
+  fullscreen_desktop: false
   buttons:
     enabled: false
     list:
