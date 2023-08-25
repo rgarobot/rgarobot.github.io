@@ -31,9 +31,9 @@ main:
         url: /projects/robot-design/
       - name: "Robot Control Engineer"
         url: /projects/robot-control/
-  - name: News
-    url: /blog/
-    weight: 4
+#  - name: News
+#    url: /blog/
+#    weight: 4
 #  - name: Buy Now
 #    url: https://www.zerostatic.io/theme/jekyll-advance/
 #    weight: 6
