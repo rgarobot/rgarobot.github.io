@@ -50,20 +50,30 @@ intro:
   enabled: true
   align: left
   image: "assets/images/gen/content/dog_drawing.png"
-  heading: "Dogs are the most affable and popular animals with humans, having communicated with them on a deep level for a long time. RGA recreates these dogs through engineering. RGA has named this the R.pet."
+  heading: "Dogs are the most affable and popular animals with humans, having communicated with them on a deep level for a long time. RGA recreates these dogs through engineering. RGA has named this the R.pet. We work with the following principles to achieve challenging and creative goals."
   sub_heading: ""
   features:
     enabled: true
     list:
-      - text: "Configure the homepage sections in front-matter."
+      - text: "Give Meaning to Work"
         fa_icon: "fas fa-check"
-      - text: "An advanced hero image section with dozens of design options."
+      - text: "Trust Your Employees"
         fa_icon: "fas fa-check"
-      - text: "Fully responsive and SEO optimised."
+      - text: "Hire People Better Than Yourself"
         fa_icon: "fas fa-check"
-      - text: "Multiple content types including services, projects, blog and more."
+      - text: "Don't Confuse Performance Management with Growth"
         fa_icon: "fas fa-check"
-  buttons:
+      - text: "Focus on the Worst and Best Employees"
+        fa_icon: "fas fa-check"
+      - text: "Be frugal yet simultaneously generous"
+        fa_icon: "fas fa-check"
+      - text: "Pay Salaries Discriminatively"
+        fa_icon: "fas fa-check"
+      - text: "Give a Gentle Nudge"
+        fa_icon: "fas fa-check"
+      - text: "Manage Growing Expectations"
+        fa_icon: "fas fa-check"        
+buttons:
     enabled: true
     list:
       - text: "About Us"
