@@ -26,13 +26,11 @@ main:
     weight: 3
     child:
       - name: "AI Vision Engineer"
-        url: /projects/modern-office-design/
+        url: /projects/ai-vision/
       - name: "Robot Design Engineer"
-        url: /projects/water-works-project/
+        url: /projects/robot-design/
       - name: "Robot Control Engineer"
-        url: /projects/opera-house/
-      - name: "Subway Signage"
-        url: /projects/subway-signage/
+        url: /projects/robot-control/
   - name: News
     url: /blog/
     weight: 4
@@ -43,7 +41,7 @@ footer_primary:
   - name: Home
     url: /
     weight: 1
-  - name: Services
+  - name: Research
     url: /services/
     weight: 2
   - name: Careers
