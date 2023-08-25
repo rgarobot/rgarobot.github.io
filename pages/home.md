@@ -72,7 +72,9 @@ intro:
       - text: "Give a Gentle Nudge"
         fa_icon: "fas fa-check"
       - text: "Manage Growing Expectations"
-        fa_icon: "fas fa-check"        
+        fa_icon: "fas fa-check"      
+  view_more_button_text: "About Us"
+  view_more_button_link: "/about"
 buttons:
     enabled: true
     list:
@@ -83,7 +85,7 @@ buttons:
         size: large
         outline: false
         style: "primary"
-
+        
 partners:
   enabled: false
   limit: 5
