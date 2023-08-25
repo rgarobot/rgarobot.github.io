@@ -1,0 +1,78 @@
+main:
+  - name: Home
+    url: /
+    weight: 1
+  - name: About
+    url: /about/
+    weight: 1
+  - name: Research
+    url: /services/
+    weight: 2
+    child:
+      - name: "Mechanical-design"
+        url: /services/web-development/
+      - name: "Robot Control"
+        url: /services/user-experience/
+      - name: "Perception"
+        url: /services/branding/
+      - name: "Locomotion"
+        url: /services/web-design/
+      - name: "Design"
+        url: /services/seo/
+      - name: "Platform"
+        url: /services/software-engineering/
+  - name: Careers
+    url: /projects/
+    weight: 3
+    child:
+      - name: "AI Vision Engineer"
+        url: /projects/modern-office-design/
+      - name: "Robot Design Engineer"
+        url: /projects/water-works-project/
+      - name: "Robot Control Engineer"
+        url: /projects/opera-house/
+      - name: "Subway Signage"
+        url: /projects/subway-signage/
+  - name: News
+    url: /blog/
+    weight: 4
+#  - name: Buy Now
+#    url: https://www.zerostatic.io/theme/jekyll-advance/
+#    weight: 6
+footer_primary:
+  - name: Home
+    url: /
+    weight: 1
+  - name: Services
+    url: /services/
+    weight: 2
+  - name: Careers
+    url: /projects/
+    weight: 3
+  - name: Team
+    url: /team/
+    weight: 4
+footer_secondary:
+  - name: About
+    url: /about/
+    weight: 1
+  - name: News
+    url: /blog/
+    weight: 2
+  - name: Contact
+    url: /contact/
+    weight: 3
+footer_tertiary:
+  - name: Privacy Policy
+    url: /privacy-policy/
+    weight: 1
+  - name: Terms and Conditions
+    url: /terms-and-conditions/
+    weight: 2
+bottom:
+  - name: Privacy Policy
+    url: /privacy-policy/
+    weight: 3
+  - name: Terms and Conditions
+    url: /terms-and-conditions/
+    weight: 4
