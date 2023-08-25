@@ -9,7 +9,7 @@ header_transparent: true
 hero:
   enabled: true
   heading: "Careers"
-  sub_heading: ""We look forward to having you join us on our journey towards the future. Don't hesitate to take on the challenge!""
+  sub_heading: "We look forward to having you join us on our journey towards the future. Don't hesitate to take on the challenge!"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
