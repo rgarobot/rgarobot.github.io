@@ -31,6 +31,22 @@ body_classes: page-home
   </div>
 {% endif %}
 
+{% if page.intro.enabled %}
+  <div class="section">
+    <div class="container">
+      {% include framework/blocks/sections/info.html
+      heading=page.intro.heading
+      sub_heading=page.intro.sub_heading
+      align=page.intro.align
+      features=page.intro.features
+      buttons=page.intro.buttons
+      image=page.intro.image
+      %}
+    </div>
+  </div>
+{% endif %}
+
+
 {% assign cards = site.services | sort: 'date' | reverse %}
 {% assign limit = page.services.limit | default: 3 %}
 {% assign sort_by = page.services.sort | default: 'date' %}
@@ -75,20 +91,7 @@ body_classes: page-home
 </div>
 {% endif %}
 
-{% if page.intro.enabled %}
-  <div class="section">
-    <div class="container">
-      {% include framework/blocks/sections/info.html
-      heading=page.intro.heading
-      sub_heading=page.intro.sub_heading
-      align=page.intro.align
-      features=page.intro.features
-      buttons=page.intro.buttons
-      image=page.intro.image
-      %}
-    </div>
-  </div>
-{% endif %}
+
 
 
 {% if page.partners.enabled %}
