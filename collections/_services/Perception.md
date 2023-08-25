@@ -33,40 +33,37 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# Perception
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+Robotic systems can process images and video far faster than humans. Using that advantage in “perception” has paved the way for breakthroughs in security, surveillance and related activities. 
+Pairing that perception with manipulation enables robots to become “butlers” that can interpret and organize a cluttered environment for helping an aging population tidy their homes and accomplish other tasks that will help them continue to live independently. 
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+## How does this work? 
 
-## What is Web Design?
-
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+Understanding what the robot sees in the world is a significant challenge. 
+The environmental lighting conditions vary, motion in the world is very complex, and there is a huge amount of data to process in the video. 
+Perception research investigates mathematical models and advanced computer algorithms to perceive the world. 
+Researchers in RGA Inc. investigate both physical models of perception as well as data-driven, machine learning models.
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
-## Front-end Development
+Computerized “deep neural networks,” modeled after human brain activity, have become proficient at perceiving and identifying commonly occurring activities, including walking and running people.
+They work less well, however, for uncommon activities, such as people falling on a sidewalk near the street. 
+RGA researchers are working on technologies that will allow machines to do what comes naturally to people, who have an exceptional ability to react appropriately to new phenomena with few or no previous examples and little explanation to work from.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+To do so, computers must process and “understand” huge amounts of data quickly and efficiently. 
+To understand video content, researchers have formulated methods for processing pixels within volumes of space and time rather than through a sequence of frames. 
+This leads to a more difficult modeling and computational problem, but yields more robust output.
 
-> As a UX designer, you should consider the Why, What and How of product use.
+Robotics also needs to improve at another set of skills humans pick up naturally, as infants: physical manipulation. 
+RGA engineers have developed a Fetch robot that has learned how to pick up objects and move them around based on a simple demonstration from a human. 
+But for the Fetch robot to do more fully mobile manipulation, it will need to see the world around it much better than it does now. 
+It will need to know what it can do with every object it sees, whether it is the handle of a door or cup, each having its own function. 
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+But what if a robot tried to do something more complicated, like making breakfast? 
+The robot would need to reason through all the different actions it would need to take with various objects. 
+And all of these actions form a chain that together that can achieve a larger task. 
+The next generation of robots will need to attain a level of reasoning that allows them to understand and reliably respond to the new objects that it sees in the real world.
 
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
 
 ![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
