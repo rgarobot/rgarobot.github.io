@@ -36,11 +36,17 @@ Our work at RGA delves not only into the mechanical workings of robots but also 
 This is because we recognize our boundless responsibility towards both the creations we forge and the world they shape.
 
 ## To fulfill RGA's mission, our members
+
 > Read
+
 > Research
+
 > Reflect
+
 > Meditate
+
 > Exercise
+
 > Pray and Act
 
 Mastering and integrating these seven practices signifies:
