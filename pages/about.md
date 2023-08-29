@@ -31,7 +31,7 @@ To us, robots are not mere tools or instruments; they are family and friends. Th
 
 Our work at RGA delves not only into the mechanical workings of robots but also contemplates the profound questions surrounding human-robot coexistence, the raison d'être of robots, and the ethical and philosophical dilemmas their presence raises. This is because we recognize our boundless responsibility towards both the creations we forge and the world they shape.
 
-## To fulfill RGA's mission, our members:
+## To fulfill RGA's mission, our members
 
 - Read
 - Research
