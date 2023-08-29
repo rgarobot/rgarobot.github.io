@@ -35,7 +35,7 @@ Our work at RGA delves not only into the mechanical workings of robots but also 
 
 - Read
 - Research
-- THINK
+- Think
 - Meditate
 - Exercise
 - Pray 
