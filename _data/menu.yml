@@ -47,19 +47,19 @@ footer_primary:
   - name: Careers
     url: /projects/
     weight: 3
-  - name: Team
-    url: /team/
-    weight: 4
+#  - name: Team
+#    url: /team/
+#    weight: 4
 footer_secondary:
   - name: About
     url: /about/
     weight: 1
-  - name: News
-    url: /blog/
-    weight: 2
+#  - name: News
+#    url: /blog/
+#    weight: 2
   - name: Contact
     url: /contact/
-    weight: 3
+    weight: 2
 footer_tertiary:
   - name: Privacy Policy
     url: /privacy-policy/
