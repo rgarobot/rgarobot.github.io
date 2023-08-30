@@ -50,7 +50,7 @@ intro:
         fa_icon: "fas fa-check"
       - text: "RESEARCH"
         fa_icon: "fas fa-check"
-      - text: "THINK"
+      - text: "CONTEMPLATE"
         fa_icon: "fas fa-check"
       - text: "MEDITATE"
         fa_icon: "fas fa-check"
