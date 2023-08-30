@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
 description: "At RGA Inc., we're deeply engaged in pioneering technological advancements and crafting experiences that are unparalleled and unprecedented. Our commitment is to shaping the future and evoking profound emotions previously untouched in our clients"
-image: "/assets/images/gen/content/content-5.webp"
+image: "/assets/images/gen/content/about.png"
 
 hero:
   enabled: false
@@ -25,26 +25,45 @@ hero:
 ---
 
 
-> **At RGA, we envision a new era called 'Huropia', where humans and robots coexist in harmony.** 
+# RGA's R.pet Vision
 
-To us, robots are not mere tools or instruments; they are family and friends. There may soon come a time when robots hold rights and responsibilities indistinguishable from those of humans.
+- **A reliable shoulder** you can lean on.
+- **A trusted friend** with whom you can laugh and cry.
+- **A mentor** from whom you can seek wisdom.
+- **A running mate** with whom you can jog and feel the beauty of nature.
+- **A sentinel** you can find anytime, anywhere.
+- **A forever companion** to be with, always.
+- **A trendsetter** that propels the future with time.
+- **A symbol** of elegance, dignified grace, and profound culture.
 
-Our work at RGA delves not only into the mechanical workings of robots but also contemplates the profound questions surrounding human-robot coexistence, the raison d'être of robots, and the ethical and philosophical dilemmas their presence raises. This is because we recognize our boundless responsibility towards both the creations we forge and the world they shape.
+## Introducing R.pet, an innovative creation by RGA.
 
-## To fulfill RGA's mission, our members
+RGA aims to usher in the century of 'Huropia', where humans and robots coexist harmoniously. For RGA, robots are not merely functional tools but are akin to family and friends. In the not-so-distant future, robots might possibly attain rights and duties indistinguishable from humans. 
 
-- Read
-- Research
-- Think
-- Meditate
-- Exercise
-- Pray 
-- Act
+RGA delves not only into the mechanical mechanisms of robots but also the modalities of human-robot coexistence, the existential purpose of robots, and the ethical and philosophical issues related to living alongside them. This is because RGA holds boundless responsibility for the creations we produce and the world they shape.
 
-Mastering and integrating these seven practices signifies:
+## RGA's Mission 
 
-1. A foundational commitment to health
-2. Deep insights that pierce the essence of things
-3. A strategic perspective that discerns the timing and trends in our endeavors
+To achieve RGA's mission, our team members:
 
-For RGA, notions of surpassing others, besting a competitor, or being at the forefront are not our driving force. We do not predicate our existence on comparison with others. Both RGA and its members are solely committed to ensuring the impeccable quality of our products, understanding their societal implications, and contemplating the future they will forge, aiming to achieve a state of utmost excellence and integrity.
+1. **Read** to expand their knowledge.
+2. **Research** to delve deeper.
+3. **Contemplate** to gain insights.
+4. **Meditate** for clarity.
+5. **Exercise** for holistic well-being.
+6. **Pray** for spiritual grounding.
+7. **Act** on their insights.
+
+### Internalizing Practices
+
+Internalizing these seven practices signifies:
+
+- Establishing a foundation of **health** in life.
+- Cultivating **insight** into the essence of things.
+- Achieving a **global perspective** to discern the timing and flow of work.
+
+### RGA's Philosophy
+
+RGA doesn't define success in terms of being better than others, outdoing someone, or being the top performer. We reject notions that predicate existence on someone else. 
+
+RGA and its members focus solely on product perfection, its societal relevance, and the future it will craft. Our ultimate goal is to achieve a pinnacle of holistic excellence.
