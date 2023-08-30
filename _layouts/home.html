@@ -3,6 +3,51 @@ layout: default
 body_classes: page-home
 ---
 
+{% if site.language_mode == "en" %}
+  {# ENGLISH CONTENT HERE #}
+  
+  {% if page.hero.enabled %}
+    {% include framework/blocks/sections/hero.html
+      heading=page.hero.heading_en
+      sub_heading=page.hero.sub_heading_en
+      background_image=page.hero.background_image
+      background_image_blend_mode=page.hero.background_image_blend_mode
+      background_color=page.hero.background_color
+      background_gradient=page.hero.background_gradient
+      text_color=page.hero.text_color
+      fullscreen_mobile=page.hero.fullscreen_mobile
+      fullscreen_desktop=page.hero.fullscreen_desktop
+      height=page.hero.height
+      buttons=page.hero.buttons_en
+    %}
+  {% endif %}
+
+  {# ... Add other sections with the "_en" suffix for English content. #}
+
+{% else %}
+  {# KOREAN CONTENT HERE #}
+  
+  {% if page.hero.enabled %}
+    {% include framework/blocks/sections/hero.html
+      heading=page.hero.heading_kr
+      sub_heading=page.hero.sub_heading_kr
+      background_image=page.hero.background_image
+      background_image_blend_mode=page.hero.background_image_blend_mode
+      background_color=page.hero.background_color
+      background_gradient=page.hero.background_gradient
+      text_color=page.hero.text_color
+      fullscreen_mobile=page.hero.fullscreen_mobile
+      fullscreen_desktop=page.hero.fullscreen_desktop
+      height=page.hero.height
+      buttons=page.hero.buttons_kr
+    %}
+  {% endif %}
+
+  {# ... Add other sections with the "_kr" suffix for Korean content. #}
+
+{% endif %}
+
+
 {% if page.hero.enabled %}
   {% include framework/blocks/sections/hero.html
     heading=page.hero.heading
