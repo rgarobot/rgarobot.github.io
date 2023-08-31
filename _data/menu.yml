@@ -34,7 +34,7 @@ main:
   - name: Language
     child:
     - name: English
-      url: /en/
+      url: /
     - name: 한국어
       url: /ko/
 #  - name: News

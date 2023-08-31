@@ -3,7 +3,7 @@ layout: list
 collection: "projects"
 title: Projects
 description: "A selection of our work and projects."
-permalink: "/en/"
+permalink: "/ko/"
 header_transparent: true
 
 hero:
