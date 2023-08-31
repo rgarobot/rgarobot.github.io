@@ -36,13 +36,13 @@
           <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
         </li>
       {% endif %}
-      {% endfor %}
-      {# Dark Mode Switcher Added Below #}
-      {% if site.darkmode.enable_dark_mode and site.darkmode.show_dark_mode_toggle_in_bottom %}
-        <li>
-          {% include framework/blocks/components/lang-switcher.html %}
-        </li>
-      {% endif %}
+    {% endfor %}
+    {# Dark Mode Switcher Added Below #}
+    {% if site.darkmode.enable_dark_mode and site.darkmode.show_dark_mode_toggle_in_bottom %}
+      <li>
+        {% include framework/blocks/components/lang-switcher.html %}
+      </li>
+    {% endif %}
   </ul>
 </div>
 
