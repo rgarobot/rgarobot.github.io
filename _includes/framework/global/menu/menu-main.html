@@ -37,23 +37,10 @@
         </li>
       {% endif %}
     {% endfor %}
-    {# Dark Mode Switcher Added Below #}
     {% if site.darkmode.enable_dark_mode and site.darkmode.show_dark_mode_toggle_in_bottom %}
       <li>
         {% include framework/blocks/components/lang-switcher.html %}
       </li>
     {% endif %}
   </ul>
-</div>
-
-<div class="bottom">
-  <div class="container relative">
-    <div class="row align-items-center justify-content-between">
-      {% if site.darkmode.enable_dark_mode and site.darkmode.show_dark_mode_toggle_in_bottom %}
-        <div class="col-auto">
-          {% include framework/blocks/components/dark-mode-switcher.html %}
-        </div>
-      {% endif %}
-    </div>
-  </div>
 </div>
