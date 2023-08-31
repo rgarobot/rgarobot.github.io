@@ -31,12 +31,12 @@ main:
         url: /projects/robot-design/
       - name: "Robot Control Engineer"
         url: /projects/robot-control/
-  - name: Language
-    child:
-    - name: EN
-      url: /en/
-    - name: KO
-      url: /ko/
+#  - name: Language
+#    child:
+#    - name: EN
+#      url: /en/
+#    - name: KO
+#      url: /ko/
 #  - name: News
 #    url: /blog/
 #    weight: 4
