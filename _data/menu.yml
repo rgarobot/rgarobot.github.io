@@ -33,12 +33,12 @@ main:
         url: /projects/robot-control/
   - name: Language
     child:
-    - name: EN
+    - name: English
       url: /en/
-    - name: KO
+    - name: 한국어
       url: /ko/
-  - name: English
-  - name: 한글
+#  - name: English
+#  - name: 한글
 #  - name: News
 #    url: /blog/
 #    weight: 4
