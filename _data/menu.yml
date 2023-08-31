@@ -37,10 +37,10 @@ main:
 #      url: /en/
 #    - name: 
 #      url: /ko/
-  - name: English
-    url: /en/
-  - name: 한국어
-    url: /ko/
+#  - name: English
+#    url: /en/
+#  - name: 한국어
+#    url: /ko/
 #  - name: News
 #    url: /blog/
 #    weight: 4
