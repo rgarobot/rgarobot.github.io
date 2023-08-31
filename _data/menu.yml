@@ -38,7 +38,7 @@ main:
     - name: KO
       url: /ko/
   - name: English
-  - name: Korean
+  - name: 한글
 #  - name: News
 #    url: /blog/
 #    weight: 4
