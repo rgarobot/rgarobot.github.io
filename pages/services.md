@@ -52,12 +52,12 @@ outro:
   enabled: true
   align: left
   image: false
-  heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free quote!"
+  heading: Maybe a big chance in life
+  sub_heading: "Join us on our journey to the future!"
   buttons:
     enabled: true
     list:
-      - text: "Get A Quote"
+      - text: "Contact"
         url: "/contact"
         external: false
         fa_icon: false
