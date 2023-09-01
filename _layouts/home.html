@@ -48,29 +48,29 @@ body_classes: page-home
 {% endif %}
 
 
-{% assign cards = site.services | sort: 'date' | reverse %}
-{% assign limit = page.services.limit | default: 3 %}
-{% assign sort_by = page.services.sort | default: 'date' %}
-{% assign columns =  page.services.columns | default: 3 %}
+{% assign cards = site.research | sort: 'date' | reverse %}
+{% assign limit = page.research.limit | default: 3 %}
+{% assign sort_by = page.research.sort | default: 'date' %}
+{% assign columns =  page.research.columns | default: 3 %}
 {% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
 {% if sort_by == 'weight' %}
   {% assign cards = cards | sort: 'weight' %}
 {% endif %}
 
-{% if page.services.enabled %}
+{% if page.research.enabled %}
   <div class="section bg-base-bg-2">
     <div class="container">
       <div class="row">
 
         {% include framework/blocks/components/grid-header.html
-          heading=page.services.heading
-          sub_heading=page.services.sub_heading
+          heading=page.research.heading
+          sub_heading=page.research.sub_heading
           align="center"
         %}
         
         {% for card in cards limit: limit %}
           <div class="col-12 col-md-4 {{ columns }} mb-3 {% if forloop.first %}mt-0 {% endif %} {% if forloop.last %}mb-0 {% endif %}">
-            {% include theme/cards/card-services.html 
+            {% include theme/cards/card-research.html 
               title=card.title 
               description=card.description
               fa_icon=card.fa_icon
@@ -82,8 +82,8 @@ body_classes: page-home
         {% endfor %}
 
         {% include framework/blocks/components/grid-footer.html 
-          view_more_button_text=page.services.view_more_button_text
-          view_more_button_link=page.services.view_more_button_link
+          view_more_button_text=page.research.view_more_button_text
+          view_more_button_link=page.research.view_more_button_link
           align="center"
         %}
 
@@ -115,29 +115,29 @@ body_classes: page-home
 {% endif %}
 
 
-{% assign cards = site.projects | sort: 'date' | reverse %}
-{% assign limit = page.projects.limit | default: 2 %}
-{% assign sort_by = page.projects.sort | default: 'date' %}
-{% assign columns =  page.projects.columns | default: 2 %}
+{% assign cards = site.career | sort: 'date' | reverse %}
+{% assign limit = page.career.limit | default: 2 %}
+{% assign sort_by = page.career.sort | default: 'date' %}
+{% assign columns =  page.career.columns | default: 2 %}
 {% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
 {% if sort_by == 'weight' %}
   {% assign cards = cards | sort: 'weight' %}
 {% endif %}
 
-{% if page.projects.enabled %}
+{% if page.career.enabled %}
   <div class="section bg-base-bg-2">
     <div class="container">
       <div class="row">
 
         {% include framework/blocks/components/grid-header.html
-          heading=page.projects.heading
-          sub_heading=page.projects.sub_heading
+          heading=page.career.heading
+          sub_heading=page.career.sub_heading
           align="center"
         %}
         
         {% for card in cards limit: limit %}
           <div class="col-12 col-md-4 {{ columns }} mb-3 {% if forloop.first %}mt-0 {% endif %} {% if forloop.last %}mb-0 {% endif %}">
-            {% include theme/cards/card-projects.html 
+            {% include theme/cards/card-career.html 
               title=card.title 
               description=card.description
               thumbnail=card.thumbnail
@@ -148,8 +148,8 @@ body_classes: page-home
         {% endfor %}
 
         {% include framework/blocks/components/grid-footer.html 
-          view_more_button_text=page.projects.view_more_button_text
-          view_more_button_link=page.projects.view_more_button_link
+          view_more_button_text=page.career.view_more_button_text
+          view_more_button_link=page.career.view_more_button_link
           align="center"
         %}
 

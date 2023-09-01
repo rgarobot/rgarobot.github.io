@@ -22,10 +22,10 @@ paginate: 6
 paginate_path: "/blog/page/:num"
 
 collections:
-  services:
+  research:
     output: true
     permalink: /:collection/:path/
-  projects:
+  career:
     output: true
     permalink: /:collection/:path/
   team:
@@ -38,14 +38,14 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: services
+      type: research
     values:
-      layout: service
+      layout: research
   - scope:
       path: ""
-      type: projects
+      type: career
     values:
-      layout: project
+      layout: career
   - scope:
       path: ""
       type: posts
@@ -176,8 +176,8 @@ bottom:
   copyright_text: "© 2021 Zerostatic Themes"
 
 sidebar:
-  enable_sidebar_services: true
-  enable_breadcrumbs_services: true
-  enable_sidebar_projects: false
-  enable_breadcrumbs_projects: true
+  enable_sidebar_research: true
+  enable_breadcrumbs_research: true
+  enable_sidebar_career: false
+  enable_breadcrumbs_career: true
 

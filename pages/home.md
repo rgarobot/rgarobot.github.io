@@ -74,21 +74,21 @@ buttons:
         style: "primary"
         
 
-services:
+research:
   enabled: true
   heading: "Our Research Area"
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
   view_more_button_text: "View All Services"
-  view_more_button_link: "/services"
+  view_more_button_link: "/research"
       
 partners:
   enabled: false
   limit: 5
   sort: "weight" # 'date'
 
-projects:
+career:
   enabled: true
   heading: "Careers"
   sub_heading: ""
@@ -96,7 +96,7 @@ projects:
   columns: 2
   sort: "weight" # 'date'
   view_more_button_text: "View All Careers"
-  view_more_button_link: "/projects"
+  view_more_button_link: "/career"
 
 outro:
   enabled: true

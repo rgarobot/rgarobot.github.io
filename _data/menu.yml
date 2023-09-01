@@ -5,32 +5,32 @@ main:
   - name: About
     url: /about/
     weight: 1
-  - name: Research
-    url: /services/
+  - name: Research Area
+    url: /research/
     weight: 2
     child:
       - name: "Mechanical-design"
-        url: /services/Mechanical Design/
+        url: /research/Mechanical Design/
       - name: "Robot Control"
-        url: /services/Robot Control/
+        url: /research/Robot Control/
       - name: "Perception"
-        url: /services/Perception/
+        url: /research/Perception/
       - name: "Motion Planning"
-        url: /services/Motion planning/
+        url: /research/Motion planning/
       - name: "Design"
-        url: /services/Design/
+        url: /research/Design/
       - name: "Platform"
-        url: /services/Platform/
+        url: /research/Platform/
   - name: Careers
-    url: /projects/
+    url: /career/
     weight: 3
     child:
       - name: "AI Vision Engineer"
-        url: /projects/ai-vision/
+        url: /career/ai-vision/
       - name: "Robot Design Engineer"
-        url: /projects/robot-design/
+        url: /career/robot-design/
       - name: "Robot Control Engineer"
-        url: /projects/robot-control/
+        url: /career/robot-control/
   - name: Language
     child:
     - name: English
@@ -48,10 +48,10 @@ footer_primary:
     url: /
     weight: 1
   - name: Research
-    url: /services/
+    url: /research/
     weight: 2
   - name: Careers
-    url: /projects/
+    url: /career/
     weight: 3
 #  - name: Team
 #    url: /team/

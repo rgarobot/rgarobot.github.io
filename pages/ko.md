@@ -1,8 +1,8 @@
 ---
 layout: list
-collection: "projects"
-title: Projects
-description: "A selection of our work and projects."
+collection: "career"
+title: career
+description: "A selection of our work and career."
 permalink: "/ko/"
 header_transparent: true
 
@@ -30,7 +30,7 @@ hero:
         style: "light"
 
 grid:
-  collection: "projects"
+  collection: "career"
   sort_by: "weight" # "date", "weight"
   columns: 2
 
@@ -43,7 +43,7 @@ intro:
   features:
     enabled: true
     list:
-      - text: "Some of our projects are open source"
+      - text: "Some of our career are open source"
         fa_icon: false
   buttons:
     enabled: true
