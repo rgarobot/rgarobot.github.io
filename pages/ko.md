@@ -102,7 +102,7 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: 어쩌면 인생을 바꿀 큰 기회일 수 있습니다.
+  heading: "어쩌면 인생을 바꿀 큰 기회일 수 있습니다."
   sub_heading: "미래를 향한 저희의 여정에 함께 하세요!"
   features:
     enabled: false
