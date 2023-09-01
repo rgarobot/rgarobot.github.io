@@ -46,19 +46,19 @@ intro:
   features:
     enabled: true
     list:
-      - text: "READ"
+      -text: "읽고"
         fa_icon: "fas fa-check"
-      - text: "RESEARCH"
+      - text: "연구하고"
         fa_icon: "fas fa-check"
-      - text: "CONTEMPLATE"
+      - text: "숙고하고"
         fa_icon: "fas fa-check"
-      - text: "MEDITATE"
+      - text: "명상하고"
         fa_icon: "fas fa-check"
-      - text: "EXERCISE"
+      - text: "운동하고"
         fa_icon: "fas fa-check"
-      - text: "PRAY"
+      - text: "기도하고"
         fa_icon: "fas fa-check"
-      - text: "ACT"
+      - text: "실행합니다"
         fa_icon: "fas fa-check"
   view_more_button_text: "About Us"
   view_more_button_link: "/about"
@@ -80,7 +80,7 @@ services:
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
-  view_more_button_text: "View All Services"
+  view_more_button_text: "조금 더 알아보기"
   view_more_button_link: "/services"
       
 partners:
@@ -95,15 +95,15 @@ projects:
   limit: 2
   columns: 2
   sort: "weight" # 'date'
-  view_more_button_text: "View All Careers"
+  view_more_button_text: "조금 더 알아보기"
   view_more_button_link: "/projects"
 
 outro:
   enabled: true
   align: center
   image: false
-  heading: Maybe a big chance in life
-  sub_heading: "Join us on our journey to the future!"
+  heading: 어쩌면 인생을 바꿀 큰 기회일 수 있습니다.
+  sub_heading: "미래를 향한 저희의 여정에 함께 하세요!"
   features:
     enabled: false
     list:
