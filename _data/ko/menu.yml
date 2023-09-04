@@ -3,34 +3,34 @@ main:
     url: /ko
     weight: 1
   - name: 소개
-    url: ko/about/
+    url: /ko/about/
     weight: 1
   - name: Research Area
-    url: ko/research/
+    url: /ko/research/
     weight: 2
     child:
       - name: "Mechanical-design"
-        url: /research/Mechanical Design/
+        url: /ko/research/Mechanical Design/
       - name: "Robot Control"
-        url: /research/Robot Control/
+        url: /ko/research/Robot Control/
       - name: "Perception"
-        url: /research/Perception/
+        url: /ko/research/Perception/
       - name: "Motion Planning"
-        url: /research/Motion planning/
+        url: /ko/research/Motion planning/
       - name: "Design"
-        url: /research/Design/
+        url: /ko/research/Design/
       - name: "Platform"
-        url: /research/Platform/
+        url: /ko/research/Platform/
   - name: Careers
-    url: /career/
+    url: /ko/career/
     weight: 3
     child:
       - name: "AI Vision Engineer"
-        url: /career/ai-vision/
+        url: /ko/career/ai-vision/
       - name: "Robot Design Engineer"
-        url: /career/robot-design/
+        url: /ko/career/robot-design/
       - name: "Robot Control Engineer"
-        url: /career/robot-control/
+        url: /ko/career/robot-control/
   - name: Language
     child:
     - name: English
@@ -38,7 +38,7 @@ main:
     - name: 한국어
       url: /ko/
 #  - name: News
-#    url: /blog/
+#    url: /ko/blog/
 #    weight: 4
 #  - name: Buy Now
 #    url: https://www.zerostatic.io/theme/jekyll-advance/
@@ -48,35 +48,35 @@ footer_primary:
     url: /
     weight: 1
   - name: Research
-    url: /research/
+    url: /ko/research/
     weight: 2
   - name: Careers
-    url: /career/
+    url: /ko/career/
     weight: 3
 #  - name: Team
-#    url: /team/
+#    url: /ko/team/
 #    weight: 4
 footer_secondary:
   - name: 소개
-    url: /about/
+    url: /ko/about/
     weight: 1
 #  - name: 뉴스
-#    url: /blog/
+#    url: /ko/blog/
 #    weight: 2
   - name: Contact
-    url: /contact/
+    url: /ko/contact/
     weight: 2
 footer_tertiary:
   - name: 개인정보보호
-    url: /privacy-policy/
+    url: /ko/privacy-policy/
     weight: 1
   - name: Terms and Conditions
-    url: /terms-and-conditions/
+    url: /ko/terms-and-conditions/
     weight: 2
 bottom:
-  - name: Privacy Policy
-    url: /privacy-policy/
+  - name: 개인정보보호
+    url: /ko/privacy-policy/
     weight: 3
   - name: Terms and Conditions
-    url: /terms-and-conditions/
+    url: /ko/terms-and-conditions/
     weight: 4
