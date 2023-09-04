@@ -3,6 +3,7 @@ title: "Platform"
 description: "A platform is necessary to support the control system and status of the robot. We provide optimized services for this purpose."
 date: 2019-10-03
 weight: 6
+lang: ko
 header_transparent: true
 fa_icon: "fab fa-codepen"
 icon: "assets/images/icons/icons8-merge-git-100.png"
