@@ -4,6 +4,7 @@ description: "Motion planning is a term used in robotics for the process of brea
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 lang: ko
+permalink: "/ko/research/Motion%20planning/"
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-design-100.png"
