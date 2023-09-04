@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: ko/list
 title: "Team"
 description: "Meet our dedicated team."
 permalink: "/ko/team/"
