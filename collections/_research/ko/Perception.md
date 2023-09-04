@@ -1,5 +1,4 @@
 ---
-layout: ko/research
 title: "Perception"
 description: "The ability to accurately perceive users and surrounding situations through various inputs, and to think comprehensively based on this understanding, is essential."
 date: 2019-10-03
