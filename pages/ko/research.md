@@ -8,8 +8,8 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: "Research Area"
-  sub_heading: "We have assembled experts from various fields to create the R.pet, a robot capable of resonating and communicating with humans, and operating freely both indoors and outdoors across any type of terrain. We continue to collaborate to address challenges and find solutions."
+  heading: "리서치 공간"
+  sub_heading: "국문We have assembled experts from various fields to create the R.pet, a robot capable of resonating and communicating with humans, and operating freely both indoors and outdoors across any type of terrain. We continue to collaborate to address challenges and find solutions."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
