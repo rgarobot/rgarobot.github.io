@@ -1,7 +1,6 @@
 ---
 layout: list
 title: Research Area
-lang: en
 description: "A selection of our digital research"
 permalink: "/research/"
 header_transparent: true
