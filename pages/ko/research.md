@@ -4,7 +4,7 @@ title: Research Area
 description: "A selection of our digital research"
 lang: ko
 permalink: "/ko/research/"
-header_transparent: false
+header_transparent: true
 
 hero:
   enabled: true
