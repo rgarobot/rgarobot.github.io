@@ -2,6 +2,7 @@
 title: "Marc Paulo"
 date: 2018-12-20T13:44:30+10:00
 weight: 4
+lang: ko
 description: "Certified Google Analytics and Google Ad's marketing specialist."
 thumbnail: "/assets/images/team/marc-paulo.jpg"
 image: "/assets/images/team/marc-paulo.jpg"
