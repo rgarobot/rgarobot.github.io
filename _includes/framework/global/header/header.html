@@ -6,7 +6,9 @@
   <div class="container">
     {% include framework/global/header/logo.html %}
     {% include framework/global/menu/menu-main.html %}
-    {% include framework/global/header/language-switcher.html %}
+    {% for lang in site.languages %}
+      <a href="{{ site.baseurl }}/{{ lang.code }}">{{ lang.name }}</a>
+  {% endfor %}
     {% include framework/global/header/hamburger.html %}
   </div>
 </div>
