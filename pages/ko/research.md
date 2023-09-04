@@ -30,7 +30,7 @@ hero:
         style: "light"
 
 grid:
-  collection: "research-ko"
+  collection: "research_ko"
   sort_by: "weight" # "date", "weight"
   columns: 3
 
