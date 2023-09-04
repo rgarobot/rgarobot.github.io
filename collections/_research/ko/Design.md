@@ -1,5 +1,4 @@
 ---
-layout: ko/list
 title: "디자인"
 description: "For coexistence in human life, innovative design and material choices that evoke a sense of intimacy are essential."
 date: 2021-07-23
