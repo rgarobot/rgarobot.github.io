@@ -1,15 +1,14 @@
 ---
 layout: list
-title: "Team"
-description: "Meet our dedicated team."
-permalink: "/team/"
-date: 2018-02-12T15:37:57+07:00
+title: Research Area
+description: "A selection of our digital research"
+permalink: "/research/"
 header_transparent: true
 
 hero:
   enabled: true
-  heading: "Our Team"
-  sub_heading: ""
+  heading: "Research Area"
+  sub_heading: "We have assembled experts from various fields to create the R.pet, a robot capable of resonating and communicating with humans, and operating freely both indoors and outdoors across any type of terrain. We continue to collaborate to address challenges and find solutions."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
@@ -30,7 +29,7 @@ hero:
         style: "light"
 
 grid:
-  collection: "team"
+  collection: "research"
   sort_by: "weight" # "date", "weight"
   columns: 3
 
@@ -38,7 +37,7 @@ intro:
   enabled: false
   align: left
   image: false
-  heading: "We are a full service digital agency"
+  heading: "A Full Service Agency"
   sub_heading: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget sapien in elit semper accumsan. Pellentesque accumsan ut tortor eu varius. Sed id tincidunt massa, ut egestas orci."
   buttons:
     enabled: false
@@ -50,7 +49,7 @@ intro:
         size: normal
 
 outro:
-  enabled: false
+  enabled: true
   align: left
   image: false
   heading: "Ready to get started?"
