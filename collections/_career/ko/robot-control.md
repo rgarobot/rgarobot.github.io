@@ -3,7 +3,7 @@ title: "Robot Control Engineer"
 description: "Research and apply model-based control and reinforcement learning-based robot control technology for stable walking even in atypical environments"
 date: 2018-12-20
 lang: ko
-permalink: "ko/career/robot-design/"
+permalink: "/ko/career/robot-control/"
 weight: 3
 header_transparent: true
 thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
