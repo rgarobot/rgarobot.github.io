@@ -11,7 +11,7 @@ collections_dir: collections
 # Language
 languages: ["en", "ko"]
 default_lang: "en"
-exclude_from_localization: ["/ko/assets", "/ko/node_modules"]
+exclude_from_localization: ["assets", "node_modules"]
 
 # Plugins
 plugins:
