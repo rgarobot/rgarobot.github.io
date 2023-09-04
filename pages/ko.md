@@ -1,5 +1,6 @@
 ---
 layout: ko/home
+lang: ko
 permalink: "/ko/"
 title: "국문"
 description: "국문디스크립션"
