@@ -10,7 +10,7 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: "커리어"
+  heading: "경력"
   sub_heading: "국문 We look forward to having you join us on our journey towards the future. Don't hesitate to take on the challenge!"
   text_color: "#FFFFFF"
   background_color: ""
