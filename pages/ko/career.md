@@ -2,7 +2,7 @@
 
 layout:  ko/list
 collection: "career"
-title: Career
+title: 커리어
 description: "A selection of our work and career."
 permalink: "/ko/career/"
 lang: ko
