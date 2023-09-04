@@ -4,6 +4,7 @@ description: "Responsible for designing, manufacturing, assembling, and field te
 date: 2018-12-20
 weight: 2
 lang: ko
+permalink: "/ko/career/robot-design/"
 header_transparent: true
 thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-2-1.webp"
