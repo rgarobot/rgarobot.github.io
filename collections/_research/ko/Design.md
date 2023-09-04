@@ -1,5 +1,5 @@
 ---
-title: "디자인"
+title: "Design"
 description: "한글 coexistence in human life, innovative design and material choices that evoke a sense of intimacy are essential."
 date: 2021-07-23
 lang: ko
