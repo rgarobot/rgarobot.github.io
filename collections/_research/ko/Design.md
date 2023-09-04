@@ -1,5 +1,4 @@
 ---
-layout: research-ko
 title: "Design"
 description: "For coexistence in human life, innovative design and material choices that evoke a sense of intimacy are essential."
 date: 2021-07-23
