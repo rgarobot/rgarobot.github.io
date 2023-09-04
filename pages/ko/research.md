@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: ko/list
 title: Research Area
 description: "A selection of our digital research"
 lang: ko
