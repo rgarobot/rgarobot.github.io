@@ -39,7 +39,7 @@ hero:
 
 intro:
   enabled: true
-  align: left  
+  align: left
   image: "assets/images/gen/content/dog_drawing.png"
   heading: "Dogs are the most affable and popular animals with humans, having communicated with them on a deep level for a long time. RGA recreates these dogs through engineering. RGA has named this the R.pet. We work with the following principles to achieve challenging and creative goals."
   sub_heading: ""
