@@ -35,8 +35,6 @@ grid:
   collection: "career"
   sort_by: "weight" # "date", "weight"
   columns: 2
-  filter:
-  lang: "ko" # 이 부분을 추가하여 한국어 게시물만 필터링
 
 intro:
   enabled: false
