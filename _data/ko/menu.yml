@@ -1,4 +1,3 @@
-
 main:
   - name: 홈
     url: /ko
@@ -45,7 +44,7 @@ main:
 #    url: https://www.zerostatic.io/theme/jekyll-advance/
 #    weight: 6
 footer_primary:
-  - name: Home
+  - name: 홈
     url: /
     weight: 1
   - name: Research
@@ -58,17 +57,17 @@ footer_primary:
 #    url: /team/
 #    weight: 4
 footer_secondary:
-  - name: About
+  - name: 소개
     url: /about/
     weight: 1
-#  - name: News
+#  - name: 뉴스
 #    url: /blog/
 #    weight: 2
   - name: Contact
     url: /contact/
     weight: 2
 footer_tertiary:
-  - name: Privacy Policy
+  - name: 개인정보보호
     url: /privacy-policy/
     weight: 1
   - name: Terms and Conditions
