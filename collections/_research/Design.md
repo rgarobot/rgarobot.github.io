@@ -3,6 +3,7 @@ title: "Design"
 description: "For coexistence in human life, innovative design and material choices that evoke a sense of intimacy are essential."
 date: 2021-07-23
 weight: 5
+lang: en
 header_transparent: true
 fa_icon: "far fa-chart-bar"
 icon: "assets/images/icons/icons8-bar-chart-100.png"
