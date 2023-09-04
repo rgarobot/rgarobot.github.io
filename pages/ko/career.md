@@ -2,7 +2,7 @@
 
 layout:  ko/list
 collection: "career"
-title: 커리어
+title: Careers
 description: "A selection of our work and career."
 permalink: "/ko/career/"
 lang: ko
@@ -10,8 +10,8 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: "Careers"
-  sub_heading: "We look forward to having you join us on our journey towards the future. Don't hesitate to take on the challenge!"
+  heading: "커리어"
+  sub_heading: "국문 We look forward to having you join us on our journey towards the future. Don't hesitate to take on the challenge!"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
@@ -32,7 +32,7 @@ hero:
         style: "light"
 
 grid:
-  collection: "career"
+  collection: "career-ko"
   sort_by: "weight" # "date", "weight"
   columns: 2
 
