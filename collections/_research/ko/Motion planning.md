@@ -1,4 +1,5 @@
 ---
+layout: research-ko
 title: "Motion Planning"
 description: "Motion planning is a term used in robotics for the process of breaking down a desired movement task into discrete motions that satisfy movement constraints and possibly optimize some aspect of the movement."
 date: 2018-11-28T15:15:34+10:00
