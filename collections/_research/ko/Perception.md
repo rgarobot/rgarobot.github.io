@@ -3,6 +3,7 @@ title: "Perception"
 description: "The ability to accurately perceive users and surrounding situations through various inputs, and to think comprehensively based on this understanding, is essential."
 date: 2019-10-03
 weight: 3
+lang: ko
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-color-palette-100.png"
