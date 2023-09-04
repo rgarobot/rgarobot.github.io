@@ -3,6 +3,7 @@ title: "Robot Control"
 description: "We strive to control the real-time stable gait of a quadruped walking robot in various environments, aiming to maintain consistent and balanced movement through diverse attempts."
 date: 2018-11-28T15:15:34+10:00
 weight: 2
+lang: ko
 header_transparent: true
 icon: "assets/images/icons/icons8-user-engagement-male-100.png"
 thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
