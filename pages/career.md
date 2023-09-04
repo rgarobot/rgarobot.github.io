@@ -1,7 +1,6 @@
 ---
 layout: list
 collection: "career"
-lang: en
 title: Career
 description: "A selection of our work and career."
 permalink: "/career/"
