@@ -10,7 +10,7 @@ image: "/assets/images/gen/content/about.png"
 hero:
   enabled: false
   heading: "소개"
-  sub_heading: "소개글"
+  sub_heading: "RGA Inc.에서는 타의 추종을 불허하는 혁신적인 기술 발전과 전례 없는 제작 경험에 깊이 관여하고 있습니다. 우리의 약속은 미래를 형성하고 고객에게 이전에 손상되지 않은 깊은 감정을 불러일으키는 것입니다"
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
