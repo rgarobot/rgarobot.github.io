@@ -1,6 +1,6 @@
 ---
 layout: ko/list
-title: Research Area
+title: 리서치 공간
 description: "A selection of our digital research"
 lang: ko
 permalink: "/ko/research/"
