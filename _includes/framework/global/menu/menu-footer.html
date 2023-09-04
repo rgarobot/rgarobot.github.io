@@ -1,10 +1,13 @@
 {% assign menu = include.menu %}
 <div class="menu-footer">
   <ul>
+    {% assign current_lang = page.lang | default: site.default_lang %}
     {% for item in menu %}
-      <li class="{% if item.url == page.url %}active{% endif %}">
-        <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
-      </li>
+      {% if item.lang == current_lang %}
+        <li class="{% if item.url == page.url %}active{% endif %}">
+          <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
