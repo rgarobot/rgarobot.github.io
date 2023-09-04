@@ -62,12 +62,12 @@ intro:
       - text: "ACT"
         fa_icon: "fas fa-check"
   view_more_button_text: "About Us"
-  view_more_button_link: "/about"
+  view_more_button_link: "/ko/about"
 buttons:
     enabled: true
     list:
       - text: "About Us"
-        url: "/about"
+        url: "/ko/about"
         external: false
         fa_icon: ""
         size: large
@@ -82,7 +82,7 @@ research:
   limit: 6
   sort: "weight" # 'date'
   view_more_button_text: "View All Services"
-  view_more_button_link: "/research"
+  view_more_button_link: "/ko/research"
       
 partners:
   enabled: false
@@ -97,7 +97,7 @@ career:
   columns: 2
   sort: "weight" # 'date'
   view_more_button_text: "View All Careers"
-  view_more_button_link: "/career"
+  view_more_button_link: "/ko/career"
 
 outro:
   enabled: true
@@ -114,7 +114,7 @@ outro:
     enabled: true
     list:
       - text: "Contact Us"
-        url: "/contact"
+        url: "/ko/contact"
         external: false
         size: "large"
 
@@ -126,5 +126,5 @@ posts:
   columns: 3
   sort: "weight" # 'date'
   view_more_button_text: "View All Posts"
-  view_more_button_link: "/blog"
+  view_more_button_link: "/ko/blog"
 ---
