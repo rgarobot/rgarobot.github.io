@@ -1,5 +1,4 @@
 ---
-layout: research-ko
 title: "Mechanical Design"
 description: "Static and dynamic structural design through biomimetic joint mimicry"
 date: 2017-11-28T15:14:54+10:00
