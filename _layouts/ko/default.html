@@ -8,7 +8,12 @@
     {% include framework/global/seo/meta.html %}
 
     <link rel="icon" href="{{ '/assets/images/favicon/favicon.png' | relative_url }}">
-    <link href="{{ '/assets/css/main-ko.css' | relative_url }}" rel="stylesheet">
+    <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
+    <style>
+      .language-switcher .language-switch {left: unset; right: 4px;
+      .language-switcher .language-switch .lang-en { opacity:1; }
+      .language-switcher .language-switch .lang-ko { opacity:0; }
+    </style>
     <link href="https://fonts.gstatic.com" rel="preconnect">
     <link href="{{ site.fonts.google_fonts }}" rel="stylesheet">
 
