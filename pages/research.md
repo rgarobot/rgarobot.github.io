@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: research
 lang: en
 title: Research Area
 description: "A selection of our digital research"
