@@ -1,5 +1,5 @@
 ---
-layout: ko/default
+layout: ko/list
 title: 리서치 공간
 description: "A selection of our digital research"
 lang: ko
