@@ -3,6 +3,7 @@ title: "Robot Design Engineer"
 description: "Responsible for designing, manufacturing, assembling, and field testing of robots to enable natural walking"
 date: 2018-12-20
 weight: 2
+lang: ko
 header_transparent: true
 thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-2-1.webp"
