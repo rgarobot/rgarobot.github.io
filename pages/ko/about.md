@@ -4,7 +4,7 @@ title: "소개"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/ko/about/"
-description: "디스크립션"
+description: "RGA Inc.에서는 타의 추종을 불허하는 혁신적인 기술 발전과 전례 없는 제작 경험에 깊이 관여하고 있습니다. 우리의 약속은 미래를 형성하고 고객에게 이전에 손상되지 않은 깊은 감정을 불러일으키는 것입니다"
 image: "/assets/images/gen/content/about.png"
 
 hero:
@@ -27,7 +27,7 @@ hero:
 
 # RGA's R.pet Vision
 
-- **A reliable shoulder** you can lean on.
+- **A reliable shoulder** 국문.
 - **A trusted friend** with whom you can laugh and cry.
 - **A mentor** from whom you can seek wisdom.
 - **A running mate** with whom you can jog and feel the beauty of nature.
