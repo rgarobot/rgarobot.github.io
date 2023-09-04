@@ -4,6 +4,7 @@ description: "The ability to accurately perceive users and surrounding situation
 date: 2019-10-03
 weight: 3
 lang: ko
+permalink: "/ko/research/Perception/"
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-color-palette-100.png"
