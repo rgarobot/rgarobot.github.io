@@ -6,7 +6,7 @@ title: Career
 description: "A selection of our work and career."
 permalink: "/ko/career/"
 lang: ko
-header_transparent: false
+header_transparent: true
 
 hero:
   enabled: true
