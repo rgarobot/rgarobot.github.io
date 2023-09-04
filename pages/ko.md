@@ -1,15 +1,15 @@
 ---
 layout: home
-permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+permalink: "/ko/"
+title: "국문"
+description: "국문디스크립션"
 header_transparent: true
 meta_title: RGA Inc
 
 hero:
   enabled: true
-  heading: "RGA Inc."
-  sub_heading: "RGA is creating robots that can always be with humans, both indoors and outdoors, by leveraging top-notch artificial intelligence and mechanical engineering technologies, enabling intellectual and emotional communication with people."
+  heading: "국문"
+  sub_heading: "서브헤딩"
   text_color: "#FFFFFF"
   background_color: "#f4e1a6"
   #"#1d2830"
