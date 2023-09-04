@@ -3,6 +3,7 @@ title: "디자인"
 description: "한글 coexistence in human life, innovative design and material choices that evoke a sense of intimacy are essential."
 date: 2021-07-23
 lang: ko
+permalink: "/ko/research/Design/"
 weight: 5
 header_transparent: true
 fa_icon: "far fa-chart-bar"
