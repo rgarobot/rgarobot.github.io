@@ -1,9 +1,12 @@
 <div class="menu-bottom">
   <ul>
+    {% assign current_lang = page.lang | default: site.default_lang %}
     {% for item in site.data.menu.bottom %}
-      <li class="menu-item-{{ item.name }}">
-        <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
-      </li>
+      {% if item.lang == current_lang %}
+        <li class="menu-item-{{ item.name }}">
+          <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
