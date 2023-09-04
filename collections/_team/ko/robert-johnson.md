@@ -2,6 +2,7 @@
 title: "Robert Johnson"
 date: 2018-12-20T13:44:30+10:00
 weight: 2
+lang: ko
 description: "Senior web designer and UX designer."
 thumbnail: "/assets/images/team/robert-johnson.jpg"
 image: "/assets/images/team/robert-johnson.jpg"
