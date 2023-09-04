@@ -13,7 +13,7 @@ image: "/assets/images/gen/services/service-5.webp"
 
 hero:
   enabled: true
-  heading: "Design"
+  heading: "디자인"
   sub_heading: "For coexistence in human life, innovative design and material choices that evoke a sense of intimacy are essential."
   text_color: "#ffffff"
   background_color: ""
