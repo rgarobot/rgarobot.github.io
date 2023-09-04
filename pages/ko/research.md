@@ -22,7 +22,7 @@ hero:
     enabled: false
     list:
       - text: "Contact Us"
-        url: "/contact"
+        url: "/ko/contact"
         external: false
         fa_icon: false
         size: large
@@ -44,7 +44,7 @@ intro:
     enabled: false
     list:
       - text: "About Us"
-        url: "/about/"
+        url: "/ko/about/"
         external: false
         fa_icon: false
         size: normal
@@ -59,7 +59,7 @@ outro:
     enabled: true
     list:
       - text: "Get A Quote"
-        url: "/contact"
+        url: "/ko/contact"
         external: false
         fa_icon: false
         size: normal
