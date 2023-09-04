@@ -31,12 +31,6 @@ collections:
     permalink: /ko/:path/
     locale: ko_KR
 
-# 기본 메인 페이지 설정 (영어)
-index: en/home.html
-
-# 한국어 메인 페이지 설정
-index_ko: ko/home.html
-
 # Plugins
 plugins:
   - jekyll-environment-variables
