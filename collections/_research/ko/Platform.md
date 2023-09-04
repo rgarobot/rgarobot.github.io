@@ -4,6 +4,7 @@ description: "A platform is necessary to support the control system and status o
 date: 2019-10-03
 weight: 6
 lang: ko
+permalink: "/ko/research/Platform/"
 header_transparent: true
 fa_icon: "fab fa-codepen"
 icon: "assets/images/icons/icons8-merge-git-100.png"
