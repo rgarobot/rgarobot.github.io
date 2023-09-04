@@ -4,8 +4,8 @@ description: "Responsible for designing, manufacturing, assembling, and field te
 date: 2018-12-20
 weight: 2
 header_transparent: true
-thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-2-1.webp"
+thumbnail: "/assets/images/gen/career/career-2-1-thumbnail.webp"
+image: "/assets/images/gen/career/career-2-1.webp"
 client: "Brisbane City Council"
 
 hero:
@@ -15,7 +15,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/gen/projects/project-2-1.webp"
+  background_image: "/assets/images/gen/career/career-2-1.webp"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
@@ -155,4 +155,4 @@ RGA는 글로벌 톱 수준의 역량을 갖춘 인재를 원하며 그들 간�
 
 - 국가유공자 및 장애인 등 취업 보호 대상자는 관계 법령에 따라 우대합니다.
 
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-1-2.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/career/career-1-2.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
