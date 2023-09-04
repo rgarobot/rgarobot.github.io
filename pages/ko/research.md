@@ -30,9 +30,11 @@ hero:
         style: "light"
 
 grid:
-  collection: "research-ko"
+  collection: "research"
   sort_by: "weight" # "date", "weight"
   columns: 3
+  filter:
+    lang: ko # 국문 게시물만 필터링
 
 intro:
   enabled: false
