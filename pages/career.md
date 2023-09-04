@@ -56,6 +56,8 @@ intro:
         outline: false
         style: "primary"
 
+# 수정해야 할 부분
+
 outro:
   enabled: true
   align: left
