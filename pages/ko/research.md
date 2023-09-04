@@ -9,7 +9,7 @@ header_transparent: true
 hero:
   enabled: true
   heading: "리서치 공간"
-  sub_heading: "국문We have assembled experts from various fields to create the R.pet, a robot capable of resonating and communicating with humans, and operating."
+  sub_heading: "국문We have assembled experts from various fields to create the R.pet, a robot capable of resonating and."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
