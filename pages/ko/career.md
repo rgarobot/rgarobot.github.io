@@ -1,5 +1,6 @@
 ---
-layout: list
+
+layout:  ko/list
 collection: "career"
 title: Career
 description: "A selection of our work and career."
