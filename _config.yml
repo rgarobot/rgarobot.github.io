@@ -20,6 +20,17 @@ languages:
     name: 한국어
     locale: ko_KR
 
+# 다국어 지원을 위한 환경 설정
+collections:
+  en:
+    output: true
+    permalink: /:path/
+    locale: en_US
+  ko:
+    output: true
+    permalink: /ko/:path/
+    locale: ko_KR
+
 # Plugins
 plugins:
   - jekyll-environment-variables
