@@ -3,6 +3,7 @@ title: "Mechanical Design"
 description: "Static and dynamic structural design through biomimetic joint mimicry"
 date: 2017-11-28T15:14:54+10:00
 weight: 1
+lang: ko
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-source-code-100.png"
