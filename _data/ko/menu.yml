@@ -5,7 +5,7 @@ main:
   - name: 소개
     url: /ko/about/
     weight: 1
-  - name: Research Area
+  - name: 연구영역
     url: /ko/research/
     weight: 2
     child:
@@ -21,7 +21,7 @@ main:
         url: /ko/research/Design/
       - name: "Platform"
         url: /ko/research/Platform/
-  - name: Careers
+  - name: 경력
     url: /ko/career/
     weight: 3
     child:
