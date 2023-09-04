@@ -1,14 +1,16 @@
 ---
-layout: list
-title: Research Area
-description: "A selection of our digital research"
-permalink: "/research/"
+layout: ko/list
+title: "Team"
+description: "Meet our dedicated team."
+permalink: "/ko/team/"
+lang: ko
+date: 2018-02-12T15:37:57+07:00
 header_transparent: true
 
 hero:
   enabled: true
-  heading: "Research Area"
-  sub_heading: "We have assembled experts from various fields to create the R.pet, a robot capable of resonating and communicating with humans, and operating freely both indoors and outdoors across any type of terrain. We continue to collaborate to address challenges and find solutions."
+  heading: "Our Team"
+  sub_heading: ""
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
@@ -21,7 +23,7 @@ hero:
     enabled: false
     list:
       - text: "Contact Us"
-        url: "/contact"
+        url: "/ko/contact"
         external: false
         fa_icon: false
         size: large
@@ -29,7 +31,7 @@ hero:
         style: "light"
 
 grid:
-  collection: "research"
+  collection: "team"
   sort_by: "weight" # "date", "weight"
   columns: 3
 
@@ -37,19 +39,19 @@ intro:
   enabled: false
   align: left
   image: false
-  heading: "A Full Service Agency"
+  heading: "We are a full service digital agency"
   sub_heading: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget sapien in elit semper accumsan. Pellentesque accumsan ut tortor eu varius. Sed id tincidunt massa, ut egestas orci."
   buttons:
     enabled: false
     list:
       - text: "About Us"
-        url: "/about/"
+        url: "/ko/about/"
         external: false
         fa_icon: false
         size: normal
 
 outro:
-  enabled: true
+  enabled: false
   align: left
   image: false
   heading: "Ready to get started?"
@@ -58,7 +60,7 @@ outro:
     enabled: true
     list:
       - text: "Get A Quote"
-        url: "/contact"
+        url: "/ko/contact"
         external: false
         fa_icon: false
         size: normal
