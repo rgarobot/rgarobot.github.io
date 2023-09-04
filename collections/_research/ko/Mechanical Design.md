@@ -4,6 +4,7 @@ description: "Static and dynamic structural design through biomimetic joint mimi
 date: 2017-11-28T15:14:54+10:00
 weight: 1
 lang: ko
+permalink: "/ko/research/Mechanical%20Design/"
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-source-code-100.png"
