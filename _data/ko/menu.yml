@@ -31,12 +31,12 @@ main:
         url: /ko/career/robot-design/
       - name: "Robot Control Engineer"
         url: /ko/career/robot-control/
-  - name: Language
-    child:
-    - name: English
-      url: /
-    - name: 한국어
-      url: /ko/
+#  - name: Language
+#    child:
+#    - name: English
+#      url: /
+#    - name: 한국어
+#     url: /ko/
 #  - name: News
 #    url: /ko/blog/
 #    weight: 4
