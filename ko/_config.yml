@@ -11,7 +11,7 @@ collections_dir: collections
 # Language
 languages: ["en", "ko"]
 default_lang: "ko"
-exclude_from_localization: ["assets", "node_modules"]
+exclude_from_localization: ["/ko/assets", "/ko/node_modules"]
 
 # Plugins
 plugins:
@@ -19,21 +19,21 @@ plugins:
   - jekyll-paginate
 
 paginate: 6
-paginate_path: "/blog/page/:num"
+paginate_path: "/ko/blog/page/:num"
 
 collections:
   research:
     output: true
-    permalink: /:collection/:path/
+    permalink: /ko/:collection/:path/
   career:
     output: true
-    permalink: /:collection/:path/
+    permalink: /ko/:collection/:path/
   team:
     output: true
-    permalink: /:collection/:path/
+    permalink: /ko/:collection/:path/
   posts:
     output: true
-    permalink: /blog/:path/
+    permalink: /ko/blog/:path/
 
 defaults:
   - scope:
@@ -59,11 +59,11 @@ defaults:
   - scope:
       path: "categories"
     values:
-      permalink: /category/:basename/
+      permalink: /ko/category/:basename/
   - scope:
       path: "pages"
     values:
-      permalink: /:basename/
+      permalink: /ko/:basename/
 
 # SCSS
 sass:
