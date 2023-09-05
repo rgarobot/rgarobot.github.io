@@ -32,36 +32,28 @@ hero:
         style: "primary"
 ---
 
-Legged animals, such as cats, can perform versatile movements on diverse terrain, owing to their structure and cooperative motion. 
-Imparting this ability to an artificial robot is an enormous challenge in the field of robotics. 
-The design of legged robots has benefited from the observation of animal structure. 
-Quadruped robots have the natural advantages of trafficability and agility on complex outdoor terrain compared with wheeled robots. 
+## The Significance of Quadruped Robot Control in Modern Robotics
 
-In recent years, many advanced quadruped robots have been achieved in terms of dynamic motion and stability, such as BigDog, StarIETH, HyQ, ANYmal and MIT Cheetah. 
-To realize the more practical tasks of quadruped robots, such as material transportation and rescue in complex environments, it is important to investigate the leg structure and locomotion stability on uneven terrain.
+When we look at nature, we're often awestruck by the agility and adaptability of legged creatures. Cats, for instance, possess an uncanny ability to traverse over diverse terrains and make versatile movements. This is largely due to their sophisticated body structures and the harmonious coordination of their limbs. Bringing such intricate dynamics into the world of robotics is no simple feat.
 
+### Quadruped Robots: Advantages and Observations
 
-Dynamic locomotion is preliminarily determined by the ground reaction force (GRF), which can be characterized by the leg structure and actuators. 
-Generally, series and parallel are the main two leg topologies, and series articulated robots have a big leg motion range.
+Legged robots, specifically the four-legged or **quadruped robots**, offer promising potential in terms of mobility. This is especially true when it comes to complex outdoor terrains where traditional wheeled robots might falter. The inspirations for these robots are often drawn from observing animal structures, emphasizing the intricate relationship between biology and technology.
 
-However, one of the joints may be subjected to a heavy load or need more higher joint velocity for fast dynamic movement. 
-The parallel leg is advantageous for force production but may waste energy when the leg swings back and forth. 
-Torque density may be a significant metric for actuators design for dynamic robot. 
+In recent times, we've witnessed commendable advancements in this area. Dynamic motion and stability have seen incredible breakthroughs with robots like [BigDog](https://en.wikipedia.org/wiki/BigDog), [StarIETH](https://www.idsc.ethz.ch/research-dandrea/research-projects/starlETH.html), [HyQ](https://www.iit.it/research/lines/hyq-hydraulic-quadruped), [ANYmal](https://www.anybotics.com/anymal-research), and [MIT Cheetah](http://biomimetics.mit.edu/research/mit-cheetah). To leverage these robots for practical applications, such as material transport or rescue missions in challenging terrains, it becomes imperative to deeply understand and refine their leg structures and enhance locomotion stability.
 
-Hydraulic actuation can provide a powerful GRF, but it is not ideal for use in everyday situations.
-Recently, an electric actuation method combining a high-torque density electromagnetic actuator and low-ratio gear was proposed and can effectively balance the requirements for transparent transmission and high-torque generation.
-Inspired by this, a high-torque density actuator was designed and assembled using a custom motor and two-stage planetary gearbox.
+### The Core of Dynamic Locomotion: Ground Reaction Force (GRF)
 
-To improve the trafficability on uneven terrain, accurate terrain estimation and robot adaptation are necessary.
-The walking surface modeling method has been proposed to approximate the local slope for each walking position with the absence of vision, and the least squares problem has been solved using the pseudoinverse. 
+At the heart of dynamic locomotion lies the **ground reaction force (GRF)**, majorly influenced by the robot's leg structure and actuators. Robots can primarily have two types of leg topologies: series and parallel. The former has an extensive range of motion, yet it might struggle under heavy loads or require rapid joint velocities for swift movements. Conversely, while parallel legs can produce force efficiently, they might not be energy-efficient during oscillatory movements.
 
-The slope angle was calculated by considering the weighted average of the inertial measurement unit (IMU) information, and the support plane was calculated using least squares estimation. 
-The previously proposed locomotion adaptation method consists of the adaption of control frame, trunk orientation, stance legs, and swing leg motion.
+When discussing actuation, torque density is a pivotal metric. Traditional hydraulic actuations offer significant GRF but may not be suitable for everyday scenarios. Modern solutions now leverage high-torque density electromagnetic actuators combined with low-ratio gears to strike a balance between transparent transmission and robust torque generation. Drawing from such insights, custom motors paired with two-stage planetary gearboxes have been developed to optimize actuation.
 
-The spatial positions of three feet were selected to fit the support plane based on the vertical relationship between in-plane vector and normal vector. 
-Additionally, some studies have used the straight slope between the front and back footholds to approximate the inclination of the support plane directly.
+### Enhancing Quadruped Robots for Complex Terrains
 
-These two methods are convenient to calculate, but the solution accuracy is poor.
+To effectively deploy these robots in uneven terrains, two core aspects need refinement: accurate terrain estimation and adaptive robot movements. By modeling the walking surface, we can approximate local slopes even without vision. Recent techniques use the **inertial measurement unit (IMU)** data to calculate slope angles. Also, to adapt to these terrains, several methods have been proposed, encompassing control frame adaptation, stance leg adaptation, and the modulation of swing leg motions. However, there's room for improvement in solution accuracy.
 
-To enhance the dynamic motion ability and controllability of quadruped robot, this study implemented parallel leg structures with symmetrical rods which match with the low reduction ratio planetary reducer to improve the back-drivability. 
-Then, aiming at traffic capacity in uneven terrain, the locomotion control framework based on VMC was established and mainly includes GRFs optimal allocation based on the QP method and a full terrain adaptation method without perception. 
+To truly revolutionize quadruped robot dynamics, this research focused on integrating parallel leg structures with symmetrical rods. These rods, when paired with low reduction ratio planetary reducers, enhance back-drivability. Further, by employing a **locomotion control framework based on VMC**, we've developed GRFs optimal allocation strategies using the QP method, paving the way for comprehensive terrain adaptation without any perception.
+
+### Concluding Thoughts
+
+In conclusion, the quest to perfect the locomotion and control of quadruped robots is an intricate dance between drawing inspiration from nature and pushing the boundaries of modern engineering. As we continue to refine these machines, the horizons of their applications in real-world scenarios expand, bringing us closer to a future where robots seamlessly integrate into our everyday environments.

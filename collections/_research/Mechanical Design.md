@@ -32,69 +32,80 @@ hero:
         outline: false
         style: "primary"
 ---
+# Quadruped Robot Design
 
 A prerequisite for good locomotion in quadruped robots is an extremely stable structure.
 The internal structure of quadrupeds, such as horses and dogs, which in nature can walk freely over complex terrain and have high load-bearing capacities, has inspired scholars to carry out a series of studies on this subject.
 The mechanical design of quadruped robots is now largely based on the joint arrangement of quadruped mammals and has been improved to provide a bionic structure that meets the needs of the robot.
 
-## Topological Structure of the Quadruped Robot
 
-While there is a variety of topology forms for quadruped robot design, the 8, 12 or 16 degrees of freedom (DOF) designs are commonly used.
-The 8-DOF structure contains four hip joints and four knee joints, with all joint axis parallel to each other.
-The 8-DOF robot can move forwards or backwards very fast and is relatively easy to control, without the transverse swing freedom of the hip joint. 
-However, the 8-DOF quadruped robot cannot achieve transverse movement and its steering capability is rather limited, leading to poor motion performance.
+## Introduction
 
-The 16-DOF quadruped robot, on the other hand, has more joints for dexterous locomotion, but it is also more difficult to control.
+A well-designed quadruped robot relies heavily on a stable structure. Nature provides us with robust examples like horses and dogs, which maneuver challenging terrains effortlessly and bear heavy loads. These natural marvels have driven academic interest in replicating their stability and mobility.
 
-In light of this, the 12-DOF design, with three rotational joints for each leg, is used for our design.
-In terms of leg configurations, the inner knee-elbow, outer knee-elbow, full-knee and full-elbow are most popular.
-The first three leg configurations have a completely symmetrical leg structure, so the robot is more stable, while the last two have more space for movement and are easier to control. 
-Therefore, the full-knee configuration is chosen in this paper. The simplified structural topology is shown, where the hip joint has both lateral swing and longitudinal swing freedoms, with another swing freedom of the knee joint.
+## Key Insights
+
+- Most quadruped robot designs today mirror the joint configurations of mammals.
+- Efforts are underway to develop a bionic structure tailored to robotic needs.
+
+## Topological Structure
+
+### **8-DOF Design**
+- Consists of four hip and knee joints with parallel joint axes.
+- Allows rapid forward and backward motion.
+- Lacks transverse movement and has limited steering - a hindrance to overall motion performance.
+
+### **16-DOF Design**
+- Offers dexterous movement due to additional joints.
+- Complex to control due to increased degrees of freedom.
+
+### **12-DOF Design**
+- Contains three rotational joints per leg.
+- Provides a good balance between control and movement complexity.
+- Popular leg configurations: inner knee-elbow, outer knee-elbow, full-knee, and full-elbow.
+- Full-knee configuration preferred due to its enhanced stability and control.
 
 ## Torso Design
-The torso of the quadruped robot is the central component of the entire robot structure. 
-Four legs are connected together through the torso, so the torso design needs to meet the following requirements. 
 
-First, sufficient strength is needed to ensure that there will be no deformation, fracture, etc., during the walking process.
-
-Next, for dexterous locomotion and energy efficiency, the torso should be designed to be as light as possible.
-
-Moreover, there should be sufficient space inside the quadruped robot torso for the installation of servos, batteries, control boards, voltage-converting modules and other components.
-
-Finally, the 12 servos mounted on the robot leg joints require a dedicated design and access for wiring, as they are in constant movement, in respect to the torso, when the quadruped robot walks or jogs.
-
-Based on the above requirements, the torso adopts an integrated design, using photosensitive resin with a wall thickness of 2 mm to prevent deformation or fracture.
-The four corners of the torso are designed to interface with the hip-joint assembly, so that no mechanical interference occurs as the hip joint rotates in any direction.
-In addition, appropriate hollowing is added at the locations with low load-bearing capacities to reduce weight.
+- Central component connecting all four legs.
+- Must ensure strength and avoid deformations during walking.
+- Prioritize lightweight design for efficient movement.
+- Ample space required for critical components like servos, batteries, and control boards.
+- Dedicated access needed for wiring due to constant leg movement.
 
 ## Hip Joint Design
-The hip joint of the quadruped robot is designed to generate two degrees of freedom, one for the roll movement and one for the pitch movement.
-Each movement is actuated by the rudder servo. Since the servo used in our design is a single-axis servo, the F6801zz flange bearings are used on the opposite side of the servo shaft in order to reduce the radial force on it.
-The shaft end and the hip joint are integrated during fabrication, which facilitates installation and reduces assembly errors. 
-In addition, the servo for the forward swing (i.e., pitch) motion of the hip joint is mounted inside the hip-joint bracket to save space.
+
+- Provides two degrees of freedom: roll and pitch.
+- Use of rudder servo for actuation.
+- Prioritize reducing radial force on the servo shaft.
+- Integration of shaft end and hip joint for simplified assembly.
 
 ## Leg Design
-The legs of the quadruped robot are in frequent contact with the ground as a power source, so leg design is crucial for successful locomotion.
-The forward swing of the hip joint of the thigh uses bearings to carry axial forces.
-As the mass of the leg has been ignored in the kinematic calculations presented below, the thigh and lower leg should be designed so that the weight and inertia are as low as possible to reduce theoretical errors.
 
-Here, instead of using a direct rudder connection at the knee joint, a ball-head linkage is used with the lower leg being driven indirectly by the rudder rocker arm.
-This allows for the rudder to be placed on the upper side of the thigh near the hip joint, where the rotational inertia of the leg is relatively low.
+- Essential for effective movement as it's the primary contact with the ground.
+- Bearing usage for axial forces in the thigh's forward swing.
+- Design should minimize weight and inertia for accurate kinematic calculations.
+- Lower leg design must consider risks of fracture due to the machine's weight and contact forces.
 
-Based on the leg structure of the quadruped robot, it can be seen that the lower leg is most susceptible to fracture and bending as it has to bear the weight of the machine, as well as compact forces, when it touches ground.
-Here, the ground contact forces are simplified to the normal contact force 𝐹𝑁 and tangential contact force 𝐹𝜇 in the vertical plane only. 
-As the lower leg rotates around the knee-joint axis, ignoring joint friction and contact friction force, the maximum external torque load can be obtained as
+## Mathematical Modelling
 
-$𝑇_{𝑚𝑎𝑥}=𝜂𝐹_{𝑁}𝑎_{3}sin(𝛼)$
+\[
+𝑇_{𝑚𝑎𝑥}=𝜂𝐹_{𝑁}𝑎_{3}sin(𝛼)
+\]
 
-where $𝐹_𝑁$ is the normal contact force, $a_3$ is the length between the knee-joint axis and the ground contact point, $𝛼$ is the angle between the lower leg and the vertical direction and $𝜂$ is the dynamic load coefficient. 
-By defining appropriate material properties for each component of the quadruped robot in the SOLIDWORKS model, a total robot weight of approximately 𝑀 = 2.3 kg is obtained. 
-Assuming the four legs bear the entire weight evenly, the normal contact force $F_N$ is Mg/4 for static situations.
+Where:
+- \(𝐹_𝑁\): Normal contact force.
+- \(a_3\): Distance between knee-joint axis and ground contact.
+- \(𝛼\): Angle between the lower leg and vertical direction.
+- \(𝜂\): Dynamic load coefficient.
+
+Given:
+- Approximate robot weight: \(M = 2.3 \text{kg}\).
+- Normal contact force for static situations: \(F_N = \frac{Mg}{4}\).
 
 ## Selection of Actuators
-The choice of actuator largely determines the locomotion performance of the quadruped robot. 
-Due to the weight of the robot itself, the actuator has to generate high torque with a fast response and a compact size.
-Brushless motors are widely used because of their excellent dynamic characteristics, but they are generally less affordable and large in size.
-Since the main focus of this paper is the implementation and preliminary evaluation of the gait algorithm on the desktop-level model, the rudder servo is selected as the drive source. 
 
-While the servo does not provide feedback for the angular displacement signal directly, the very high built-in gear ratio of the servo makes it acceptable for low-speed gait and self-balancing tests.
+- Actuator choice is pivotal for the robot's movement performance.
+- Brushless motors are commonly used due to their dynamic properties but are often bulky and costly.
+- For the paper's purpose, the rudder servo, despite lacking direct feedback, is deemed suitable for low-speed gait and balance tests.
+

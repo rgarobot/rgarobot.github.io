@@ -33,35 +33,34 @@ hero:
         style: "primary"
 ---
 
-LEGGED robots can deliver substantial advantages in real-world environments by offering mobility that is unmatched by wheeled counterparts. 
-Nonetheless, most legged robots are still confined to structured terrain. One of the main reasons is the difficulty on generating complex dynamic motions while considering the terrain conditions. 
+# Legged Robotics: A Deep Dive into Terrain Locomotion
 
-Due to this complexity, many legged locomotion approaches focus on terrain-blind methods with instantaneous actions. 
-These heuristic approaches assume that reactive actions are enough to ensure the robot stability under unperceived terrain conditions.
+Legged robots have opened avenues in robotic mobility, offering unparalleled capabilities, especially when compared to their wheeled counterparts. While their design and function echo the organic world, replicating the agility and adaptability of legged creatures in man-made robots is a daunting challenge.
 
-Unfortunately, these approaches cannot tackle all types of terrain, in particular terrains with big discontinuities.
-Such difficulties have limited the use of legged systems to specific terrain topologies.
+## The Current State of Legged Robotics
 
-Trajectory optimization with contacts has gained attention in the legged robotics community. 
-It aims to overcome the drawbacks of terrain-blind approaches by considering a horizon of future events. 
-It could potentially improve the robot stability given a certain terrain. 
+Despite their potential, most legged robots today are limited to structured terrains. This limitation primarily stems from the intricate challenge of generating dynamic motions that are adaptive to varying terrains.
 
-However, in spite of the promising benefits, most of the works are focused on flat conditions or on simulation. 
-For instance, these trajectory optimization methods do not incorporate any terrain-risk model. 
-This model serves to quantify the footstep difficulty and uncertainty. 
+Many current strategies for legged locomotion prioritize terrain-blind methodologies, opting for instantaneous, reactive actions. The inherent assumption is that these quick, heuristic responses would be sufficient to maintain robot stability even when the terrain is unpredictable.
 
-Nonetheless, it is not yet clear how to properly incorporate this model inside a trajectory optimization framework. 
-Reason why terrain models are often used only for foothold planning (decoupled approach).
+However, this assumption falls short in real-world scenarios, especially on terrains with significant discontinuities. Consequently, legged robots, in their current state, remain restrained to specific terrain profiles, limiting their practical applications.
 
+## Trajectory Optimization: A Potential Solution
 
-To address challenging terrain locomotion, we extend our previous planning method in two ways. 
+Recent trends in the legged robotics community have gravitated towards trajectory optimization with contacts. This approach seeks to surmount the limitations of terrain-blind methods by envisioning a series of future events, allowing for better anticipation and response.
 
-First, we propose a novel robot attitude planning method that heuristically adapts trunk orientation while still guaranteeing the robot’s stability. 
-Our approach establishes limits in the angular acceleration that keep the estimated Centroidal Moment Pivot (CMP) inside the support region. 
-With our attitude planner, the robot can cross challenging terrain with height elevation changes. 
-It allows the robot to navigate over stairs and ramps, as shown in the experimental and simulation trials. 
+Yet, much of the existing work in this area remains tethered to ideal conditions, either emphasizing flat terrains or relying heavily on simulations. A significant gap in these studies is the absence of a terrain-risk model, an essential component that quantifies the challenges and uncertainties of foot placements.
 
-Second, we propose a terrain model (based on log-barrier functions) that robustly describes feasible footstep locations.
-This work presents first experimental studies on how both models influence the legged locomotion over challenging terrain. 
+The integration of such a model into the trajectory optimization framework remains a nebulous area. Consequently, terrain models, as of now, are predominantly utilized for foothold planning in a decoupled fashion.
 
-![Design In Figma](/assets/images/gen/content/content-2.webp)
+## Our Proposition for Advanced Terrain Locomotion
+
+In light of these challenges, our team has built upon our prior methodologies, introducing enhancements in two pivotal areas:
+
+1. **Robot Attitude Planning**: Our innovative approach introduces heuristic adaptations to the robot's trunk orientation to maintain stability. By imposing constraints on angular acceleration, we ensure the robot's estimated Centroidal Moment Pivot (CMP) remains within the support domain. This advancement empowers the robot to traverse terrains with variable height elevations, as evident in our experiments navigating stairs and ramps.
+
+2. **Terrain Model Incorporation**: We introduce a terrain model founded on log-barrier functions, offering a robust representation of feasible footstep locations. Our preliminary studies shed light on the profound influence of these models on legged locomotion across challenging terrains.
+
+![Innovations in Legged Robotics](/assets/images/gen/content/content-2.webp)
+
+In conclusion, the realm of legged robotics stands at the cusp of transformative advancements. By addressing the aforementioned challenges and continuing interdisciplinary research, the horizon of legged robot applications is poised to expand exponentially.
