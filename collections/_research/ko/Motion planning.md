@@ -8,8 +8,8 @@ permalink: "/ko/research/Motion%20planning/"
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-design-100.png"
-thumbnail: "/assets/images/gen/services/service-4-thumbnail.webp"
-image: "/assets/images/gen/services/service-4.webp"
+thumbnail: "/assets/images/gen/research/research-4-thumbnail.webp"
+image: "/assets/images/gen/research/research-4.webp"
 
 hero:
   enabled: true
@@ -19,7 +19,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-4-large.webp"
+  background_image: "/assets/images/gen/research/research-4-large.webp"
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: 660px;

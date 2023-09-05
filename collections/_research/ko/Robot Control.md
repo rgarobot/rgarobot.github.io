@@ -7,8 +7,8 @@ lang: ko
 permalink: "/ko/research/Robot%20Control/"
 header_transparent: true
 icon: "assets/images/icons/icons8-user-engagement-male-100.png"
-thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/gen/services/service-2.webp"
+thumbnail: "/assets/images/gen/research/research-2-thumbnail.webp"
+image: "/assets/images/gen/research/research-2.webp"
 
 hero:
   enabled: true
@@ -18,7 +18,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-2.webp"
+  background_image: "/assets/images/gen/research/research-2.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
