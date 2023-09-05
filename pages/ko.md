@@ -103,8 +103,8 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: Maybe a big chance in life
-  sub_heading: "Join us on our journey to the future!"
+  heading: 어쩌면 인생의 가장 큰 기회
+  sub_heading: "우리의 미래를 향한 여정에 함께하세요"
   features:
     enabled: false
     list:
