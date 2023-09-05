@@ -1,6 +1,6 @@
 ---
-title: "Robot Design Engineer"
-description: "Responsible for designing, manufacturing, assembling, and field testing of robots to enable natural walking"
+title: "로봇 설계 엔지니어"
+description: "자연스러운 걷기를 가능케 하기 위해 로봇의 설계, 제작, 조립 및 현장 테스트를 담당"
 date: 2018-12-20
 weight: 2
 header_transparent: true
@@ -10,8 +10,8 @@ client: "Brisbane City Council"
 
 hero:
   enabled: true
-  heading: "Robot Design Engineer"
-  sub_heading: "Responsible for designing, manufacturing, assembling, and field testing of robots to enable natural walking"
+  heading: "로봇 설계 엔지니어"
+  sub_heading: "자연스러운 걷기를 가능케 하기 위해 로봇의 내형 및 외형 설계, 제작, 조립 및 현장 테스트를 담당"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false

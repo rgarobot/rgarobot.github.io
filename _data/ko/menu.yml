@@ -25,11 +25,11 @@ main:
     url: /ko/career/
     weight: 3
     child:
-      - name: "AI Vision Engineer"
+      - name: "인공지능 인식 엔지니어"
         url: /ko/career/ai-vision/
-      - name: "Robot Design Engineer"
+      - name: "로봇 설계 엔지니어"
         url: /ko/career/robot-design/
-      - name: "Robot Control Engineer"
+      - name: "로봇 제어 엔지니어"
         url: /ko/career/robot-control/
 #  - name: Language
 #    child:
