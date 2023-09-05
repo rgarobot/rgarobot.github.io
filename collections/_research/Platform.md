@@ -1,23 +1,23 @@
 ---
 title: "Platform"
-description: "A platform is necessary to support the control system and status of the robot. We provide optimized services for this purpose."
+description: "A platform is necessary to support the control system and status of the robot. We provide optimized research for this purpose."
 date: 2019-10-03
 weight: 6
 header_transparent: true
 fa_icon: "fab fa-codepen"
 icon: "assets/images/icons/icons8-merge-git-100.png"
-thumbnail: "/assets/images/gen/services/service-6-thumbnail.webp"
-image: "/assets/images/gen/services/service-6.webp"
+thumbnail: "/assets/images/gen/research/research-6-thumbnail.webp"
+image: "/assets/images/gen/research/research-6.webp"
 
 hero:
   enabled: true
   heading: "Platform"
-  sub_heading: "A platform is necessary to support the control system and status of the robot. We provide optimized services for this purpose."
+  sub_heading: "A platform is necessary to support the control system and status of the robot. We provide optimized research for this purpose."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-6.webp"
+  background_image: "/assets/images/gen/research/research-6.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
@@ -41,7 +41,7 @@ Often many individuals will work in teams covering different aspects of the desi
 
 ## What is Web Design?
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+User experience is about how a user interacts with, and experiences, a particular product, system or research. As a UX designer, you should consider the Why, What and How of product use.
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 

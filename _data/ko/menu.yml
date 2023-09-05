@@ -21,7 +21,7 @@ main:
         url: /ko/research/Design/
       - name: "Platform"
         url: /ko/research/Platform/
-  - name: 경력
+  - name: 채용
     url: /ko/career/
     weight: 3
     child:
@@ -47,10 +47,10 @@ footer_primary:
   - name: 홈
     url: /
     weight: 1
-  - name: Research
+  - name: 연구분야
     url: /ko/research/
     weight: 2
-  - name: Careers
+  - name: 채용
     url: /ko/career/
     weight: 3
 #  - name: Team

@@ -47,7 +47,7 @@ footer_primary:
   - name: Home
     url: /
     weight: 1
-  - name: Research
+  - name: Research Area
     url: /research/
     weight: 2
   - name: Careers
