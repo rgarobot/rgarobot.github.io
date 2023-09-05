@@ -1,6 +1,6 @@
 ---
-title: "Robot Control Engineer"
-description: "Research and apply model-based control and reinforcement learning-based robot control technology for stable walking even in atypical environments"
+title: "로봇 제어 엔지니어"
+description: "일반적이지 않은 환경에서도 안정적인 걷기를 위해 모델 기반 제어와 강화 학습 기반의 로봇 제어 기술을 연구하고 적용하기"
 date: 2018-12-20
 weight: 3
 header_transparent: true
@@ -10,8 +10,8 @@ client: "Region of Valencia"
 
 hero:
   enabled: true
-  heading: "Robot Control Engineer"
-  sub_heading: "Research and apply model-based control and reinforcement learning-based robot control technology for stable walking even in atypical environments"
+  heading: "로봇 제어 엔지니어"
+  sub_heading: "일반적이지 않은 환경에서도 안정적인 걷기를 위해 모델 기반 제어와 강화 학습 기반의 로봇 제어 기술을 연구하고 적용하기"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
