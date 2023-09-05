@@ -41,14 +41,10 @@ body_classes: page-career
         {% endif %}
         <div class="content">{{ content }}</div>
       </div>
-      
+
       {% if site.enable_sidebar_career %}
         <div class="col-12 col-lg-3 offset-lg-1">
-          {% if page.lang == "en" %}
-            {% include framework/blocks/components/sidebar.html collection="career" %}
-          {% elsif page.lang == "ko" %}
-            {% include framework/blocks/components/sidebar.html collection="career-ko" %}
-          {% endif %}
+          {% include framework/blocks/components/sidebar.html collection="career" %}
         </div>
       {% endif %}
 
