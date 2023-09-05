@@ -5,21 +5,21 @@ main:
   - name: 소개
     url: /ko/about/
     weight: 1
-  - name: 연구영역
+  - name: 연구분야
     url: /ko/research/
     weight: 2
     child:
-      - name: "Mechanical-design"
+      - name: "로봇설계"
         url: /ko/research/Mechanical Design/
-      - name: "Robot Control"
+      - name: "로봇제어"
         url: /ko/research/Robot Control/
-      - name: "Perception"
+      - name: "인식"
         url: /ko/research/Perception/
-      - name: "Motion Planning"
+      - name: "모션계획"
         url: /ko/research/Motion planning/
-      - name: "Design"
+      - name: "디자인"
         url: /ko/research/Design/
-      - name: "Platform"
+      - name: "플랫폼"
         url: /ko/research/Platform/
   - name: 채용
     url: /ko/career/
