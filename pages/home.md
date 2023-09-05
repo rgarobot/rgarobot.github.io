@@ -80,7 +80,7 @@ research:
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
-  view_more_button_text: "View All Services"
+  view_more_button_text: "View All Research Area"
   view_more_button_link: "/research"
       
 partners:
