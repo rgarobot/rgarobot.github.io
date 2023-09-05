@@ -95,15 +95,15 @@ $$ T_{max} = \eta F_{N} a_{3} \sin(\alpha) $$
 
 Where:
 
-- \( F_{N} \): Normal contact force.
-- \( a_{3} \): Distance between knee-joint axis and ground contact.
-- \( \alpha \): Angle between the lower leg and vertical direction.
-- \( \eta \): Dynamic load coefficient.
+- $$ F_{N} $$: Normal contact force.
+- $$a_{3}$$: Distance between knee-joint axis and ground contact.
+- $$\alpha$$: Angle between the lower leg and vertical direction.
+- $$\eta$$: Dynamic load coefficient.
 
 Given:
 
-- Approximate robot weight: \( M = 2.3 \text{kg} \).
-- Normal contact force for static situations: \( F_N = \frac{Mg}{4} \).
+- Approximate robot weight: $$M = 2.3 \text{kg} $$.
+- Normal contact force for static situations: $$F_N = \frac{Mg}{4}$$.
 
 ## Selection of Actuators
 
