@@ -7,9 +7,13 @@
   </div>
 
   <div class="menu-main-mobile-center">
+    {% assign lang = page.lang | default: "en" %}
+    {% assign menu_data = site.data[lang].menu.main %}
+    {% assign active = nil %}
+
     {% if site.menu.show_dropdown_items_in_mobile_menu %}
       <ul class="menu">
-        {% for item in site.data.menu.main %}
+        {% for item in menu_data %}
           {% if item.child %}
             <li class="menu-item-{{ item.name | downcase }}{% if item.url == page.url %} active{% endif %}">
               <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
@@ -17,7 +21,19 @@
                 <ul class="sub-menu">
                   {% for childitem in item.child  %}
                     <li class="{% if childitem.url == page.url %} active {% endif %}">
-                      <a href="{{ childitem.url | relative_url }}">{{ childitem.name }}</a>
+                      <a href="{{ childitem.url | relative_url }}" class="{% if childitem.url == page.url %} active {% endif %}">
+                        {% if childitem.icon %}
+                          <div class="dropdown-item-icon"><img src="{{ childitem.icon | relative_url }}" /></div>
+                        {% endif %}
+                        {% if childitem.icon_darkmode %}
+                          <div class="dropdown-item-icon icon-invert"><img src="{{ childitem.icon_darkmode | relative_url }}" /></div>
+                        {% endif %}
+
+                        <div class="dropdown-item-content">
+                          {% if childitem.name %}<div class="dropdown-item-name">{{ childitem.name }}</div>{% endif %}
+                          {% if childitem.description %}<div class="dropdown-item-description">{{ childitem.description }}</div>{% endif %}
+                        </div>
+                      </a>
                     </li>
                   {% endfor %}
                 </ul>
@@ -29,7 +45,7 @@
             {% else %}
               {% assign active = nil %}
             {% endif %}
-            <li class="{% if item.url == page.url %}active{% endif %}">
+            <li class="{% if active %}active{% endif %}">
               <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
             </li>
           {% endif %}
@@ -37,7 +53,7 @@
       </ul>
     {% else %}
       <ul class="menu">
-        {% for item in site.data.menu.main %}
+        {% for item in menu_data %}
           <li class="menu-item-{{ item.name | downcase }}{% if item.url == page.url %} active {% endif %}">
             <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
           </li>
@@ -48,7 +64,7 @@
 
   <div class="menu-main-mobile-bottom">
     {% if site.menu.show_social_media_in_mobile_menu %}
-      {% include framework/blocks/components/social.html limit=3%}
+      {% include framework/blocks/components/social.html limit=3 %}
     {% endif %}
     {% if site.darkmode.enable_dark_mode and site.darkmode.show_dark_mode_toggle_in_mobile_menu %}
       {% include framework/blocks/components/dark-mode-switcher.html %}
