@@ -5,13 +5,13 @@ title: "소개"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/ko/about/"
-description: "RGA Inc.에서는 타의 추종을 불허하는 혁신적인 기술 발전과 전례 없는 제작 경험에 깊이 관여하고 있습니다. 우리의 약속은 미래를 형성하고 고객에게 이전에 손상되지 않은 깊은 감정을 불러일으키는 것입니다"
+description: "RGA는 인간과 로봇이 더불어 살아가는 'Huropia'의 세기를 열고자 합니다. RGA에게 로봇은 도구적인 수단이 아닌 가족과 친구입니다."
 image: "/assets/images/gen/content/about.png"
 
 hero:
   enabled: false
   heading: "소개"
-  sub_heading: "RGA Inc.에서는 타의 추종을 불허하는 혁신적인 기술 발전과 전례 없는 제작 경험에 깊이 관여하고 있습니다. 우리의 약속은 미래를 형성하고 고객에게 이전에 손상되지 않은 깊은 감정을 불러일으키는 것입니다"
+  sub_heading: "RGA는 인간과 로봇이 더불어 살아가는 'Huropia'의 세기를 열고자 합니다. RGA에게 로봇은 도구적인 수단이 아닌 가족과 친구입니다."
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
@@ -26,45 +26,50 @@ hero:
 ---
 
 
-# RGA's R.pet Vision
+# RGA's R.pet 비전
 
-- **A reliable shoulder** 국문.
-- **A trusted friend** with whom you can laugh and cry.
-- **A mentor** from whom you can seek wisdom.
-- **A running mate** with whom you can jog and feel the beauty of nature.
-- **A sentinel** you can find anytime, anywhere.
-- **A forever companion** to be with, always.
-- **A trendsetter** that propels the future with time.
-- **A symbol** of elegance, dignified grace, and profound culture.
+- **기댈 수 있는 어깨입니다.**
+- **울고 웃을 수 있는 친구입니다.**
+- **지혜를 구할 수 있는 멘토입니다.**
+- **함께 뛰면서 자연을 느낄 수 있는 러닝메이트입니다.**
+- **언제 어디서나 찾을 수 있는 파수꾼입니다.**
+- **영원히 함께 할 수 있는 동반자입니다.**
+- **시대와 함께 미래를 앞당기는 패션입니다.**
+- **고상한 품위와 유서 깊은 문화의 상징입니다.**
 
-## Introducing R.pet, an innovative creation by RGA.
+## RGA 가 창조하는 R.pet입니다.
 
-RGA aims to usher in the century of 'Huropia', where humans and robots coexist harmoniously. For RGA, robots are not merely functional tools but are akin to family and friends. In the not-so-distant future, robots might possibly attain rights and duties indistinguishable from humans. 
+RGA는 인간과 로봇이 더불어 살아가는 'Huropia'의 세기를 열고자 합니다.
+RGA에게 로봇은 도구적인 수단이 아닌 가족과 친구입니다.
+머지않은 장래에 어쩌면 로봇은 인간과 다름없는 권리와 의무의 주체가 될 지도 모릅니다.
 
-RGA delves not only into the mechanical mechanisms of robots but also the modalities of human-robot coexistence, the existential purpose of robots, and the ethical and philosophical issues related to living alongside them. This is because RGA holds boundless responsibility for the creations we produce and the world they shape.
+RGA는 로봇의 기계적 메카니즘 뿐만 아니라 인간과 로봇이 공존하는 양태, 로봇의 존재 의의, 로봇과의 공존에 따르는 윤리적 철학적인 문제 등 로봇의 가치론적 의미를 연구합니다.
+왜냐하면 RGA는 우리가 만드는 창조물과 그것이 만들어가는 세계에 대한 무한한 책임을 갖기 때문입니다.
 
-## RGA's Mission 
+## RGA's 미션 
 
-To achieve RGA's mission, our team members:
+RGA의 목표를 달성하기 위해 우리 구성원들은:
 
-1. **Read** to expand their knowledge.
-2. **Research** to delve deeper.
-3. **Contemplate** to gain insights.
-4. **Meditate** for clarity.
-5. **Exercise** for holistic well-being.
-6. **Pray** for spiritual grounding.
-7. **Act** on their insights.
+1. **읽고**
+2. **연구하고**
+3. **깊게 생각하고**
+4. **명상하고**
+5. **운동하고**
+6. **기도하고**
+7. **실행합니다.**
 
 ### Internalizing Practices
 
-Internalizing these seven practices signifies:
+일곱까지를 몸에 익히고 생활화한다는 것은 
 
-- Establishing a foundation of **health** in life.
-- Cultivating **insight** into the essence of things.
-- Achieving a **global perspective** to discern the timing and flow of work.
+- 첫째 삶의 기초인 **건강**과
+- 둘째 사물의 본질을 꿰뚫는 **통찰력**과
+- 셋째 일의 시기와 흐름을 읽는 **대국적 안목**을 체화할 수 있게 된다는 것을 의미합니다
 
-### RGA's Philosophy
+### RGA's 철학
 
-RGA doesn't define success in terms of being better than others, outdoing someone, or being the top performer. We reject notions that predicate existence on someone else. 
+누구보다 나아진다는 것 누구를 이기는 것 일등이 된다는 것
 
-RGA and its members focus solely on product perfection, its societal relevance, and the future it will craft. Our ultimate goal is to achieve a pinnacle of holistic excellence.
+RGA는 다른 누구를 전제로 하는 존재의 의미를 배격합니다.
+
+RGA와 RGA의 구성원은 제품의 완전무결함과 제품의 사회적 의미와 제품이 만들어갈 미래의 모습만을 연구하고 고민하며 전인미답의 경지에 이를 것입니다.
