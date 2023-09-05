@@ -53,8 +53,8 @@ outro:
   enabled: true
   align: left
   image: false
-  heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free quote!"
+  heading: 어쩌면 인생의 가장 큰 기회
+  sub_heading: "우리의 미래를 향한 여정에 함께하세요"
   buttons:
     enabled: true
     list:

@@ -10,8 +10,8 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: "커리어"
-  sub_heading: "국문 We look forward to having you join us on our journey towards the future. Don't hesitate to take on the challenge!"
+  heading: "채용"
+  sub_heading: "우리의 미래로 향하는 여정에 당신이 함께해 주시길 기대합니다. 도전을 주저하지 마세요!"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
@@ -62,8 +62,8 @@ outro:
   enabled: true
   align: left
   image: false
-  heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free quote!"
+  heading: 어쩌면 인생의 가장 큰 기회
+  sub_heading: "우리의 미래를 향한 여정에 함께하세요"
   buttons:
     enabled: true
     list:
