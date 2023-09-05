@@ -46,19 +46,19 @@ collections:
     permalink: /blog/:path/
     lang: en
 
-  research-ko:
+  research:
     output: true
     permalink: /ko/:collection/:path/
     lang: ko
-  career-ko:
+  career:
     output: true
     permalink: /ko/:collection/:path/
     lang: ko
-  team-ko:
+  team:
     output: true
     permalink: /ko/:collection/:path/
     lang: ko
-  posts-ko:
+  posts:
     output: true
     permalink: /ko/blog/:path/
     lang: ko
