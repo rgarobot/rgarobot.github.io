@@ -19,8 +19,8 @@ main:
         url: /research/Motion planning/
       - name: "Design"
         url: /research/Design/
-      - name: "Platform"
-        url: /research/Platform/
+      #- name: "Platform"
+      #  url: /research/Platform/
   - name: Careers
     url: /career/
     weight: 3

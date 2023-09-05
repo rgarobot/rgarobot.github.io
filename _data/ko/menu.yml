@@ -19,8 +19,8 @@ main:
         url: /ko/research/Motion planning/
       - name: "디자인"
         url: /ko/research/Design/
-      - name: "플랫폼"
-        url: /ko/research/Platform/
+     # - name: "플랫폼"
+     #   url: /ko/research/Platform/
   - name: 채용
     url: /ko/career/
     weight: 3
