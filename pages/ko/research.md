@@ -58,7 +58,7 @@ outro:
   buttons:
     enabled: true
     list:
-      - text: "Get A Quote"
+      - text: "Contact Us"
         url: "/ko/contact"
         external: false
         fa_icon: false
