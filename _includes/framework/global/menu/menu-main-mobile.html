@@ -66,10 +66,11 @@
     {% if site.menu.show_social_media_in_mobile_menu %}
       {% include framework/blocks/components/social.html limit=3 %}
     {% endif %}
-    {% if site.darkmode.enable_dark_mode and site.darkmode.show_dark_mode_toggle_in_mobile_menu %}
+
+    <!-- Dark mode toggle 추가 -->
+    <div class="darkmode-toggle">
       {% include framework/blocks/components/dark-mode-switcher.html %}
-    {% endif %}
+    </div>
   </div>
 
 </div> 
-
