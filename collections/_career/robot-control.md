@@ -15,7 +15,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/gen/career/career-3-3.webp"
+  background_image: "/assets/images/gen/career/career-3-1.webp"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
@@ -32,7 +32,7 @@ hero:
         style: "primary"
 ---
 
-## **RGA: Shaping the Future of Robotics**
+## **RGA: Shaping the Future of Artificial Intelligence & Robotics**
 
 ### **About RGA**
 At RGA, we're not just a company; we're an innovation powerhouse. Standing shoulder to shoulder with global giants like Apple and Tesla, we're far from your typical start-up. Our essence lies in deep technology, fueling our pursuit to revolutionize human-machine interactions.

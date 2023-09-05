@@ -89,19 +89,21 @@ A well-designed quadruped robot relies heavily on a stable structure. Nature pro
 
 ## Mathematical Modelling
 
-\[
-𝑇_{𝑚𝑎𝑥}=𝜂𝐹_{𝑁}𝑎_{3}sin(𝛼)
-\]
+Given the robot parameters, the maximum torque can be modeled as:
+
+$$ T_{max} = \eta F_{N} a_{3} \sin(\alpha) $$
 
 Where:
-- \(𝐹_𝑁\): Normal contact force.
-- \(a_3\): Distance between knee-joint axis and ground contact.
-- \(𝛼\): Angle between the lower leg and vertical direction.
-- \(𝜂\): Dynamic load coefficient.
+
+- \( F_{N} \): Normal contact force.
+- \( a_{3} \): Distance between knee-joint axis and ground contact.
+- \( \alpha \): Angle between the lower leg and vertical direction.
+- \( \eta \): Dynamic load coefficient.
 
 Given:
-- Approximate robot weight: \(M = 2.3 \text{kg}\).
-- Normal contact force for static situations: \(F_N = \frac{Mg}{4}\).
+
+- Approximate robot weight: \( M = 2.3 \text{kg} \).
+- Normal contact force for static situations: \( F_N = \frac{Mg}{4} \).
 
 ## Selection of Actuators
 
