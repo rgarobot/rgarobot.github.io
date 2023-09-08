@@ -2,8 +2,8 @@
 permalink: "/ko/research/Robot%20Control/"
 layout: ko/research
 lang: ko
-title: "Robot Control"
-description: "We strive to control the real-time stable gait of a quadruped walking robot in various environments, aiming to maintain consistent and balanced movement through diverse attempts."
+title: "로봇 제어"
+description: "우리는 다양한 환경에서 네 다리 걷는 로봇의 실시간 안정적인 보행을 제어하기 위해 노력하며, 다양한 시도를 통해 일관된 균형잡힌 움직임을 유지하려 노력합니다."
 date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
@@ -13,8 +13,8 @@ image: "/assets/images/gen/research/research-2.webp"
 
 hero:
   enabled: true
-  heading: "Robot Control"
-  sub_heading: "We strive to control the real-time stable gait of a quadruped walking robot in various environments, aiming to maintain consistent and balanced movement through diverse attempts."
+  heading: "로봇 제어"
+  sub_heading: "우리는 다양한 환경에서 네 다리 걷는 로봇의 실시간 안정적인 보행을 제어하기 위해 노력하며, 다양한 시도를 통해 일관된 균형잡힌 움직임을 유지하려 노력합니다."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
