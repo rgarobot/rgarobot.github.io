@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Platform"
 description: "A platform is necessary to support the control system and status of the robot. We provide optimized research for this purpose."
 date: 2019-10-03
