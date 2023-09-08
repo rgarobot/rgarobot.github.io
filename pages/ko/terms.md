@@ -1,5 +1,5 @@
 ---
-title: "Terms and Conditions"
+title: "이용약관"
 date: 2021-24-01
 layout: basic
 permalink: "/ko/terms-and-conditions/"
