@@ -34,7 +34,7 @@ paginate_path: "/blog/page/:num"
 collections:
   research:
     output: true
-    permalink: /:collection/:path/
+    permalink: /en/:collection/:path/
     lang: en
   career:
     output: true
