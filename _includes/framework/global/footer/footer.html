@@ -2,7 +2,9 @@
   <div class="container">
     <div class="row">
 
-        <div class="col-12 col-md-4">
+      {% assign lang = page.lang | default: "en" %}
+      {% if lang == "en" %}  
+      <div class="col-12 col-md-4">
           <div class="footer-info">
             {% if site.footer.footer_title and site.footer.footer_title != "" %}
               <h2>{{ site.footer.footer_title }}</h2>
@@ -17,7 +19,16 @@
               {% include framework/blocks/components/social.html %}
           {% endif %}
         </div>
-  
+        {% elsif lang == "ko" %}
+      <div class="col-12 col-md-4">
+          <div class="footer-info">
+            <h2>알지에이 : RGA Inc.</h2>
+            <p>알지에이는 최첨단 인공 지능 및 기계 공학 기술을 활용하여 실내외에서 항상 사람들과 함께 할 수 있는 로봇을 개발하고 있으며, 사람들과의 지적 및 감정적인 커뮤니케이션을 가능하게 합니다.</p>
+          {% if site.footer.enable_social_media_icons and site.data.social %}
+              {% include framework/blocks/components/social.html %}
+          {% endif %}
+        </div>
+  {% endif %}
     {% if site.footer.enable_contact_details %}
     <div class="row justify-content-end mt-2">
       <div class="col-12 col-md-4">
