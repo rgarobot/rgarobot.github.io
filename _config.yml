@@ -35,7 +35,7 @@ collections:
   career:
     output: true
     permalink: /:collection/:path/
-  career_ko:
+  career-ko:
     output: true
     permalink: /ko/:collection/:path/
   
