@@ -1,5 +1,5 @@
 ---
-permalink: "/ko/research/인식/"
+permalink: "/ko/research/Perception/"
 layout: ko/research
 lang: ko
 title: "인식"
