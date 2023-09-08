@@ -1,11 +1,11 @@
 ---
 layout: ko/basic
 lang: ko
-title: "소개"
+title: "회사소개"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/ko/about/"
-description: "RGA는 인간과 로봇이 더불어 살아가는 'Huropia'의 세기를 열고자 합니다. RGA에게 로봇은 도구적인 수단이 아닌 가족과 친구입니다."
+description: "사족보행로봇, 소셜로봇, 반려로봇, rag 로봇, Boston dynamics, 레인보우로보틱스, unitree, 알지에이, 알지에이아이엔씨"
 image: "/assets/images/gen/content/about.png"
 
 hero:
