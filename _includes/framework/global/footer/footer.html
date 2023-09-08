@@ -1,49 +1,29 @@
-<div class="footer">
-  <div class="container">
-    <div class="row">
+{% assign contact = include.contact %}
 
-        <div class="col-12 col-md-4">
-
-          {% assign lang = page.lang | default: "en" %}
-          {% if lang == "en" %}
-          <div class="footer-info">
-            {% if site.footer.footer_title and site.footer.footer_title != "" %}
-              <h2>{{ site.footer.footer_title }}</h2>
-            {% endif %}
-
-            {% if site.footer.footer_description and site.footer.footer_description != "" %}
-              <p>{{ site.footer.footer_description }}</p>
-            {% endif %}
-          </div>
-
-          {% if site.footer.enable_social_media_icons and site.data.social %}
-              {% include framework/blocks/components/social.html %}
-          {% endif %}
-        </div>
-
-      {% els if lang == "ko" %}
-      <div class="footer-info">
-              <h2>알지에이 : RGA Inc.</h2>
-              <p>알지에이는 최첨단 인공 지능 및 기계 공학 기술을 활용하여 실내외에서 항상 사람들과 함께 할 수 있는 로봇을 개발하고 있으며, 사람들과의 지적 및 감정적인 커뮤니케이션을 가능하게 합니다.</p>
-          </div>
-          {% if site.footer.enable_social_media_icons and site.data.social %}
-              {% include framework/blocks/components/social.html %}
-          {% endif %}
-        </div>
-      {% endif %}
-
-    {% if site.footer.enable_contact_details %}
-    <div class="row justify-content-end mt-2">
-      <div class="col-12 col-md-4">
-        <h3>Contact Us</h3>
-        {% include framework/blocks/components/contact.html
-          contact=site.data.contact
-        %}
-      </div>
+<div class="contact">
+  {% if contact.email and contact.email != "" %}
+    <div class="contact-email">
+      <strong>Email:</strong>
+      <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
     </div>
-    {% endif %}
-      
+  {% endif %}
+  {% if contact.phone and contact.phone != "" %}
+    <div class="contact-phone">
+      <strong>Phone:</strong>
+      {{ contact.phone }}</div>
+  {% endif %}
+  {% if contact.fax and contact.fax != "" %}
+    <div class="contact-fax">
+      <strong>Fax:</strong>
+      {{ contact.fax }}</div>
+  {% endif %}
+  {% if contact.address and contact.address != "" %}
+    <div class="contact-address">
+      <strong>Address:</strong>
+      {{ contact.address }}
     </div>
-    
-  </div>
+  {% endif %}
+  {% if contact.map_link %}
+    <a href="{{ contact.map_link }}" target="_blank" rel="noreferrer">(View Map)</a>
+  {% endif %}
 </div>
