@@ -2,7 +2,7 @@
 permalink: "/ko/research/Mechanical%20Design/"
 layout: ko/research
 lang: ko
-title: "기계 설계"
+title: "로봇 설계"
 description: "생체 모방 관절 모방을 통한 정적 및 동적 구조 설계"
 date: 2017-11-28T15:14:54+10:00
 weight: 1
@@ -14,7 +14,7 @@ image: "/assets/images/gen/research/research-1.webp"
 
 hero:
   enabled: true
-  heading: "기계 설계"
+  heading: "로봇 설계"
   sub_heading: "생체 모방 관절 모방을 통한 정적 및 동적 구조 설계"
   text_color: "#FFFFFF"
   background_color: ""
