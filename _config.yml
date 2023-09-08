@@ -37,14 +37,15 @@ collections:
     output: true
     permalink: /:collection/:path/
     lang: en
-  research-ko:
-    output: true
-    permalink: /ko/:collection/:path/
-    lang: ko
-  career-ko:
-    output: true
-    permalink: /ko/:collection/:path/
-    lang: ko
+  ko:
+    research:
+      output: true
+      permalink: /ko/:collection/:path/
+      lang: ko
+    career:
+      output: true
+      permalink: /ko/:collection/:path/
+      lang: ko
   
 
 defaults:
