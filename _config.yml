@@ -8,6 +8,9 @@ markdown: kramdown
 highlighter: rouge
 collections_dir: collections
 
+feed:
+  path: feed.xml
+
 # 기본 언어 설정 (예: 영어)
 default_lang: en
 
