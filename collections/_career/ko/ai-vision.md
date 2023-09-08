@@ -1,5 +1,5 @@
 ---
-permalink: "/ko/career/ai-vision"
+permalink: "/ko/career/ai-vision/"
 lang: ko
 title: "인공지능 인식 엔지니어"
 description: "다양한 지각 모델, 예를 들면 객체 탐지, 얼굴 감정 인식, 제스처 인식, 깊이 추정 등을 탐색하고 배포하기"
