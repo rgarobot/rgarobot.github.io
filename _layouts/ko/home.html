@@ -48,7 +48,7 @@ body_classes: page-home
 {% endif %}
 
 
-{% assign cards = site.research | sort: 'date' | reverse %}
+{% assign cards = site.research | where: "lang", "ko" | sort: 'date' | reverse %}
 {% assign limit = page.research.limit | default: 3 %}
 {% assign sort_by = page.research.sort | default: 'date' %}
 {% assign columns =  page.research.columns | default: 3 %}
@@ -115,7 +115,7 @@ body_classes: page-home
 {% endif %}
 
 
-{% assign cards = site.career | sort: 'date' | reverse %}
+{% assign cards = site.career | where: "lang", "ko" | sort: 'date' | reverse %}
 {% assign limit = page.career.limit | default: 2 %}
 {% assign sort_by = page.career.sort | default: 'date' %}
 {% assign columns =  page.career.columns | default: 2 %}
