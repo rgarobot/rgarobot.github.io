@@ -35,11 +35,11 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-    permalink_ko: /ko/:collection/:path/
+    lang: en
   career:
     output: true
     permalink: /:collection/:path/
-    lang: en
+    permalink_ko: /ko/:collection/:path/
   team:
     output: true
     permalink: /:collection/:path/
@@ -49,7 +49,7 @@ collections:
     permalink: /blog/:path/
     lang: en
 
-  career-ko:
+  research-ko:
     output: true
     permalink: /ko/:collection/:path/
     lang: ko
