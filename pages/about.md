@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "About Us : 알지에이 - RGA Inc."
+title: "About Us"
 date: 2023-09-07T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
