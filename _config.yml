@@ -2,14 +2,11 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: "https://www.rgarobot.com"
+url: ""
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
 collections_dir: collections
-
-feed:
-  path: feed.xml
 
 # 기본 언어 설정 (예: 영어)
 default_lang: en
@@ -35,40 +32,49 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+    lang: en
   career:
     output: true
     permalink: /:collection/:path/
+    lang: en
+  team:
+    output: true
+    permalink: /:collection/:path/
+    lang: en
+  posts:
+    output: true
+    permalink: /blog/:path/
+    lang: en
+
+  research-ko:
+    output: true
+    permalink: /ko/:collection/:path/
+    lang: ko
+  career-ko:
+    output: true
+    permalink: /ko/:collection/:path/
+    lang: ko
+  team-ko:
+    output: true
+    permalink: /ko/:collection/:path/
+    lang: ko
+  posts-ko:
+    output: true
+    permalink: /ko/blog/:path/
+    lang: ko
   
 
 defaults:
   - scope:
-      path: "researh/"
+      path: ""
       type: research
     values:
       layout: research
-      permalink: 'researh/:title'
-      language: en
-   - scope:
-      path: "ko/researh/"
-      type: research
-    values:
-      layout: ko/research
-      permalink: 'ko/researh/:title'
-      language: ko
   - scope:
-      path: "career/"
+      path: ""
       type: career
     values:
       layout: career
-      permalink: 'career/:title'
-      language: en
-  - scope:
-      path: "ko/career/"
-      type: career
-    values:
-      layout: ko/career
-      permalink: 'ko/career/:title'
-      language: ko
   - scope:
       path: ""
       type: posts
@@ -105,7 +111,6 @@ exclude:
 # Theme Config
 # --------------------
 title: "알지에이 : RGA Inc."
-description: "사족보행로봇, 소셜로봇, 반려로봇, rag 로봇, Boston dynamics, 레인보우로보틱스, unitree, 알지에이, 알지에이아이엔씨"
 category_dir: category
 
 colors:
