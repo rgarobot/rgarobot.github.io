@@ -1,5 +1,5 @@
 ---
-layout: ko/basic
+layout: basic
 lang: ko
 title: "회사소개"
 date: 2018-11-28T15:15:34+10:00
