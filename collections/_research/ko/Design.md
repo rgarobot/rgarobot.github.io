@@ -3,7 +3,7 @@ permalink: "/ko/research/Design/"
 layout: ko/research
 lang: ko
 title: "디자인"
-description: "For coexistence in human life, innovative design and material choices that evoke a sense of intimacy are essential."
+description: "인간의 삶에서 공존을 위해서는 친근감을 일으키는 혁신적인 디자인과 소재 선택이 필수적입니다."
 date: 2021-07-23
 weight: 5
 header_transparent: true
@@ -15,7 +15,7 @@ image: "/assets/images/gen/research/research-5.webp"
 hero:
   enabled: true
   heading: "디자인"
-  sub_heading: "For coexistence in human life, innovative design and material choices that evoke a sense of intimacy are essential."
+  sub_heading: "인간의 삶에서 공존을 위해서는 친근감을 일으키는 혁신적인 디자인과 소재 선택이 필수적입니다."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
