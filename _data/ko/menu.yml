@@ -2,7 +2,7 @@ main:
   - name: 홈
     url: /ko
     weight: 1
-  - name: 소개
+  - name: 회사소개
     url: /ko/about/
     weight: 1
   - name: 연구분야
@@ -31,18 +31,6 @@ main:
         url: /ko/career/robot-design/
       - name: "로봇 제어 엔지니어"
         url: /ko/career/robot-control/
-#  - name: Language
-#    child:
-#    - name: English
-#      url: /
-#    - name: 한국어
-#     url: /ko/
-#  - name: News
-#    url: /ko/blog/
-#    weight: 4
-#  - name: Buy Now
-#    url: https://www.zerostatic.io/theme/jekyll-advance/
-#    weight: 6
 footer_primary:
   - name: 홈
     url: /
@@ -53,30 +41,24 @@ footer_primary:
   - name: 채용
     url: /ko/career/
     weight: 3
-#  - name: Team
-#    url: /ko/team/
-#    weight: 4
 footer_secondary:
-  - name: 소개
+  - name: 회사소개
     url: /ko/about/
     weight: 1
-#  - name: 뉴스
-#    url: /ko/blog/
-#    weight: 2
   - name: Contact
     url: /ko/contact/
     weight: 2
 footer_tertiary:
-  - name: 개인정보보호
+  - name: 개인정보보호정책
     url: /ko/privacy-policy/
     weight: 1
-  - name: Terms and Conditions
+  - name: 이용약관
     url: /ko/terms-and-conditions/
     weight: 2
 bottom:
-  - name: 개인정보보호
+  - name: 개인정보보호정책
     url: /ko/privacy-policy/
     weight: 3
-  - name: Terms and Conditions
+  - name: 이용약관
     url: /ko/terms-and-conditions/
     weight: 4
