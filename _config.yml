@@ -35,45 +35,40 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-    lang: en
   career:
     output: true
     permalink: /:collection/:path/
-    permalink_ko: /ko/:collection/:path/
-  team:
-    output: true
-    permalink: /:collection/:path/
-    lang: en
-  posts:
-    output: true
-    permalink: /blog/:path/
-    lang: en
-
-  research-ko:
-    output: true
-    permalink: /ko/:collection/:path/
-    lang: ko
-  team-ko:
-    output: true
-    permalink: /ko/:collection/:path/
-    lang: ko
-  posts-ko:
-    output: true
-    permalink: /ko/blog/:path/
-    lang: ko
   
 
 defaults:
   - scope:
-      path: ""
+      path: "researh/"
       type: research
     values:
       layout: research
+      permalink: 'researh/:title'
+      language: en
+   - scope:
+      path: "ko/researh/"
+      type: research
+    values:
+      layout: ko/research
+      permalink: 'ko/researh/:title'
+      language: ko
   - scope:
-      path: ""
+      path: "career/"
       type: career
     values:
       layout: career
+      permalink: 'career/:title'
+      language: en
+  - scope:
+      path: "ko/career/"
+      type: career
+    values:
+      layout: ko/career
+      permalink: 'ko/career/:title'
+      language: ko
   - scope:
       path: ""
       type: posts
