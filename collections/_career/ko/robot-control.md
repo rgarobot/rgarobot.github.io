@@ -1,5 +1,6 @@
 ---
 permalink: "/ko/career/robot-control/"
+layout: ko/career
 lang: ko
 title: "로봇 제어 엔지니어"
 description: "일반적이지 않은 환경에서도 안정적인 걷기를 위해 모델 기반 제어와 강화 학습 기반의 로봇 제어 기술을 연구하고 적용하기"
