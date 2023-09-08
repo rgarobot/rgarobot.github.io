@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: ""
+url: "https://jekyllcodex.org"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
