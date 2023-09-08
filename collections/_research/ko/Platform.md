@@ -2,8 +2,8 @@
 permalink: "/ko/research/Platform/"
 layout: ko/research
 lang: ko
-title: "Platform"
-description: "A platform is necessary to support the control system and status of the robot. We provide optimized research for this purpose."
+title: "플랫폼"
+description: "플랫폼은 로봇의 제어 시스템과 상태를 지원하기 위해 필요합니다. 우리는 이 목적을 위해 최적화된 연구를 제공합니다."
 date: 2019-10-03
 weight: 6
 header_transparent: true
@@ -14,8 +14,8 @@ image: "/assets/images/gen/research/research-6.webp"
 
 hero:
   enabled: true
-  heading: "Platform"
-  sub_heading: "A platform is necessary to support the control system and status of the robot. We provide optimized research for this purpose."
+  heading: "플랫폼"
+  sub_heading: "플랫폼은 로봇의 제어 시스템과 상태를 지원하기 위해 필요합니다. 우리는 이 목적을 위해 최적화된 연구를 제공합니다."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
