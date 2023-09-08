@@ -1,7 +1,7 @@
 ---
 layout: list
 collection: "career"
-title: rga 채용
+title: Career
 description: "사족보행로봇, 소셜로봇, 반려로봇, rag 로봇, Boston dynamics, 레인보우로보틱스, unitree, 알지에이아이엔씨"
 permalink: "/career/"
 header_transparent: true
