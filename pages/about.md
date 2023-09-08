@@ -8,7 +8,7 @@ description: "사족보행로봇, 소셜로봇, 반려로봇, rag 로봇, Boston
 image: "/assets/images/gen/content/about.png"
 
 hero:
-  enabled: true
+  enabled: false
   heading: "About Us"
   sub_heading: "At RGA Inc., we're deeply engaged in pioneering technological advancements and crafting experiences that are unparalleled and unprecedented. Our commitment is to shaping the future and evoking profound emotions previously untouched in our clients"
   background_image: false
