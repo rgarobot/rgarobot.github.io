@@ -2,7 +2,7 @@
 
 layout:  ko/list
 collection: "career"
-title: Careers
+title: rga 연구분야
 description: "A selection of our work and career."
 permalink: "/ko/career/"
 lang: ko
