@@ -18,7 +18,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/gen/career/career-3-3.webp"
+  background_image: "/assets/images/gen/career/career-3-1.webp"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
