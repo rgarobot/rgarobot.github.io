@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Robot Design Engineer"
 description: "Responsible for designing, manufacturing, assembling, and field testing of robots to enable natural walking"
 date: 2018-12-20
