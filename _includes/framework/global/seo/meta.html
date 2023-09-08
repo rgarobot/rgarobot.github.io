@@ -2,7 +2,7 @@
 <meta name="naver-site-verification" content="8bc3e44596166878570b878b14d4f21a7401838f" />
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta property="og:title" content="{{% if page.meta_title %}{{ page.meta_title }}{% elsif page.title %}{{ page.title }} - {{ site.title}}{% else %}{{ site.title }}{% endif %}}">
+<meta property="og:title" content="{% if page.meta_title %}{{ page.meta_title }}{% elsif page.title %}{{ page.title }} - {{ site.title}}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" content="{{ description }}">
 
 {% if page.meta_description %}
