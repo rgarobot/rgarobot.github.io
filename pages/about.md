@@ -2,13 +2,13 @@
 layout: basic
 title: "About Us"
 date: 2023-09-07T15:15:34+10:00
-header_transparent: false
+header_transparent: true
 permalink: "/about/"
 description: "사족보행로봇, 소셜로봇, 반려로봇, rag 로봇, Boston dynamics, 레인보우로보틱스, unitree, 알지에이아이엔씨"
 image: "/assets/images/gen/content/about.png"
 
 hero:
-  enabled: false
+  enabled: true
   heading: "About Us"
   sub_heading: "At RGA Inc., we're deeply engaged in pioneering technological advancements and crafting experiences that are unparalleled and unprecedented. Our commitment is to shaping the future and evoking profound emotions previously untouched in our clients"
   background_image: false
