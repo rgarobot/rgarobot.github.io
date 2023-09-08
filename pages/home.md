@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
+title: "알지에이 - RGA Inc."
 description: "사족보행로봇, 소셜로봇, 반려로봇, rag 로봇, Boston dynamics, 레인보우로보틱스, unitree, 알지에이, 알지에이아이엔씨"
 header_transparent: true
 meta_title: 알지에이 - RGA Inc.
