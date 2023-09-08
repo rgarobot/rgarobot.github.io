@@ -8,8 +8,8 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: 사업분야"
-  sub_heading: "R.pet은 다양한 분야의 전문가들이 모여 어떤 지형에서도 실내외를 막론하고 자유롭게 동작하며 인간과 공명하고 소통할 수 있는 로봇 R.pet을 개발하였으며, 지속적으로 협업하여 과제를 해결하고 해결 방안을 모색하고 있습니다."
+  heading: "연구분야"
+  sub_heading: "R.pet을 만들기 위해 다양한 분야의 전문가들을 모여 고민합니다. R.pet은 사람과 공감하고 소통할 수 있으며, 어떠한 지형에서든 실내외에서 자유롭게 활동할 수 있습니다. 우리는 계속해서 도전 과제를 해결하고 해결책을 찾기 위해 협력하고 있습니다."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
@@ -53,8 +53,8 @@ outro:
   enabled: true
   align: left
   image: false
-  heading: Maybe a big chance in life
-  sub_heading: "Join us on our journey to the future!"
+  heading: 어쩌면 인생의 가장 큰 기회
+  sub_heading: "우리의 미래를 향한 여정에 함께하세요"
   buttons:
     enabled: true
     list:
