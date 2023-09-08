@@ -1,6 +1,7 @@
 ---
 permalink: "/ko/career/robot-design/"
 lang: ko
+layout: ko/career
 title: "로봇 설계 엔지니어"
 description: "자연스러운 걷기를 가능케 하기 위해 로봇의 설계, 제작, 조립 및 현장 테스트를 담당"
 date: 2018-12-20
