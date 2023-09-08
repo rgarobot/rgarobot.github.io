@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: home
 permalink: "/"
 title: "알지에이 - RGA Inc."
@@ -82,6 +83,7 @@ research:
   sort: "weight" # 'date'
   view_more_button_text: "View All Research Area"
   view_more_button_link: "/research"
+  lang: en
       
 partners:
   enabled: false
@@ -97,6 +99,7 @@ career:
   sort: "weight" # 'date'
   view_more_button_text: "View All Careers"
   view_more_button_link: "/career"
+  lang: en
 
 outro:
   enabled: true
