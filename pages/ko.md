@@ -82,7 +82,6 @@ research:
   sort: "weight" # 'date'
   view_more_button_text: "모든 연구분야 더보기"
   view_more_button_link: "/ko/research"
-  lang: ko
       
 partners:
   enabled: false
@@ -98,7 +97,6 @@ career:
   sort: "weight" # 'date'
   view_more_button_text: "모든 채용 더보기"
   view_more_button_link: "/ko/career"
-  lang: ko
 
 outro:
   enabled: true
