@@ -1,5 +1,5 @@
 ---
-title: "개인정보 보호정책"
+title: "개인정보보호정책"
 date: 2021-24-01
 layout: basic
 permalink: "/ko/privacy-policy/"
