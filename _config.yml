@@ -120,14 +120,14 @@ colors:
 
 
 fonts:
-  google_fonts: "https://fonts.googleapis.com/css2?family=Fira+Mono&family=Lato:wght@300;400;700&family=Source+Sans+Pro:wght@300;400;700&display=swap"
-  heading: "Lato"
-  base: "Source Sans Pro"
-  monospace: "Fira Mono"
-  logo: "Lato"
+  google_fonts: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap"
+  heading: "Lato", "Noto Sans KR"
+  base: "Lato", "Noto Sans KR"
+  monospace: "Fira Mono", "Lato", "Noto Sans KR"
+  logo: "Lato", "Noto Sans KR"
 
 logo:
-  logo_text: "Jekyll Advance"
+  logo_text: "RGA Inc."
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
