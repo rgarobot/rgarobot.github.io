@@ -1,6 +1,8 @@
 {% assign contact = include.contact %}
 
 <div class="contact">
+
+{% assign lang = page.lang | default: "en" %}
   {% if contact.email and contact.email != "" %}
     <div class="contact-email">
       <strong>Email : </strong>
@@ -26,4 +28,38 @@
   {% if contact.map_link %}
     <a href="{{ contact.map_link }}" target="_blank" rel="noreferrer">(View Map)</a>
   {% endif %}
+
+{% elsif lang == "ko" %}
+
+{% if contact.email and contact.email != "" %}
+    <div class="contact-email">
+      <strong>이메일 : </strong>
+      <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+    </div>
+  {% endif %}
+  {% if contact.phone and contact.phone != "" %}
+    <div class="contact-phone">
+      <strong>연락처 : </strong>
+      {{ contact.phone }}</div>
+  {% endif %}
+  {% if contact.fax and contact.fax != "" %}
+    <div class="contact-fax">
+      <strong>팩스 : </strong>
+      {{ contact.fax }}</div>
+  {% endif %}
+  {% if contact.address and contact.address != "" %}
+    <div class="contact-address">
+      <strong>주소 : </strong>
+      {{ contact.address }}
+    </div>
+  {% endif %}
+  {% if contact.map_link %}
+    <a href="{{ contact.map_link }}" target="_blank" rel="noreferrer">(지도보기)</a>
+  {% endif %}
+
+{% endif %}  
 </div>
+
+
+
+
