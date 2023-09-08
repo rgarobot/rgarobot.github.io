@@ -68,18 +68,20 @@ body_classes: page-list
       %}
       
       {% for card in cards limit: limit %}
-        <div class="col-12 col-md-4 {{ columns }} {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mb-3 mb-md-6">
-          {% include theme/cards/card-{{ card_type | strip }}.html
-            title=card.title 
-            description=card.description
-            fa_icon=card.fa_icon
-            icon=card.icon
-            thumbnail=card.thumbnail
-            image=card.image
-            url=card.url 
-            weight=card.weight
-          %}
-        </div>
+        {% if card.lang == "en" %}
+          <div class="col-12 col-md-4 {{ columns }} {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mb-3 mb-md-6">
+            {% include theme/cards/card-{{ card_type | strip }}.html
+              title=card.title 
+              description=card.description
+              fa_icon=card.fa_icon
+              icon=card.icon
+              thumbnail=card.thumbnail
+              image=card.image
+              url=card.url 
+              weight=card.weight
+            %}
+          </div>
+        {% endif %}
       {% endfor %}
 
       {% include framework/blocks/components/grid-footer.html 
@@ -126,4 +128,4 @@ body_classes: page-list
       </div>
     </div>
   </div>
-{% endif %} 
+{% endif %}
