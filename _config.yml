@@ -121,10 +121,10 @@ colors:
 
 fonts:
   google_fonts: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap"
-  heading: "Lato", "Noto Sans KR"
-  base: "Lato", "Noto Sans KR"
-  monospace: "Fira Mono", "Lato", "Noto Sans KR"
-  logo: "Lato", "Noto Sans KR"
+  heading: "Noto Sans KR"
+  base: "Noto Sans KR"
+  monospace: "Noto Sans KR"
+  logo: "Noto Sans KR"
 
 logo:
   logo_text: "RGA Inc."
