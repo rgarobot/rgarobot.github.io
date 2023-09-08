@@ -1,7 +1,7 @@
 ---
 layout: ko/list
 lang: ko
-title: 사업분야
+title: "사업분야"
 description: "사족보행로봇, 소셜로봇, 반려로봇, rag 로봇, Boston dynamics, 레인보우로보틱스, unitree, 알지에이, 알지에이아이엔씨"
 permalink: "/ko/research/"
 header_transparent: true
