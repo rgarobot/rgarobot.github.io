@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: "https://jekyllcodex.org"
+url: "https://www.rgarobot.com"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
