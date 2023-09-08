@@ -22,6 +22,7 @@ hero:
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
+  height: "600px"
 # when fullscree_desktop option is false, height: "600px"
   buttons:
     enabled: false
