@@ -1,5 +1,6 @@
 ---
 layout: basic
+lang: ko
 title: "About Us"
 date: 2023-09-07T15:15:34+10:00
 header_transparent: false
