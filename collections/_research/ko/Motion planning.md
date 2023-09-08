@@ -2,8 +2,8 @@
 permalink: "/ko/research/Motion%20planning/"
 layout: ko/research
 lang: ko
-title: "Motion Planning"
-description: "Motion planning is a term used in robotics for the process of breaking down a desired movement task into discrete motions that satisfy movement constraints and possibly optimize some aspect of the movement."
+title: "동작 계획"
+description: "동작 계획은 로봇공학에서 사용되는 용어로, 움직임 제약 조건을 만족하고 움직임의 어떤 측면을 최적화할 수 있는 이산 움직임으로 원하는 움직임 작업을 분해하는 과정을 나타냅니다."
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
@@ -14,8 +14,8 @@ image: "/assets/images/gen/research/research-4.webp"
 
 hero:
   enabled: true
-  heading: "Motion Planning"
-  sub_heading: "Motion planning is a term used in robotics for the process of breaking down a desired movement task into discrete motions that satisfy movement constraints and possibly optimize some aspect of the movement."
+  heading: "동작 계획"
+  sub_heading: "동작 계획은 로봇공학에서 사용되는 용어로, 움직임 제약 조건을 만족하고 움직임의 어떤 측면을 최적화할 수 있는 이산 움직임으로 원하는 움직임 작업을 분해하는 과정을 나타냅니다."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
