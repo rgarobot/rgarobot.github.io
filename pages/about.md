@@ -1,11 +1,10 @@
 ---
-layout: /basic
-lang: en
+layout: basic
 title: "About Us"
-date: 2018-11-28T15:15:34+10:00
+date: 2023-09-07T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
-description: "사족보행로봇, 소셜로봇, 반려로봇, rag 로봇, Boston dynamics, 레인보우로보틱스, unitree, 알지에이, 알지에이아이엔씨"
+description: "사족보행로봇, 소셜로봇, 반려로봇, rag 로봇, Boston dynamics, 레인보우로보틱스, unitree, 알지에이아이엔씨"
 image: "/assets/images/gen/content/about.png"
 
 hero:
