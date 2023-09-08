@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: ko/home
 lang: ko
 permalink: "/ko"
 description: "사족보행로봇, 소셜로봇, 반려로봇, rag 로봇, Boston dynamics, 레인보우로보틱스, unitree, 알지에이아이엔씨"
