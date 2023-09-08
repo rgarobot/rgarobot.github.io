@@ -34,8 +34,8 @@ paginate_path: "/blog/page/:num"
 collections:
   research:
     output: true
-    permalink: /en/:collection/:path/
-    lang: en
+    permalink: /:collection/:path/
+    permalink_ko: /ko/:collection/:path/
   career:
     output: true
     permalink: /:collection/:path/
@@ -49,10 +49,6 @@ collections:
     permalink: /blog/:path/
     lang: en
 
-  research-ko:
-    output: true
-    permalink: /ko/:collection/:path/
-    lang: ko
   career-ko:
     output: true
     permalink: /ko/:collection/:path/
