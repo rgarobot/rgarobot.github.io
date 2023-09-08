@@ -1,9 +1,9 @@
 ---
-permalink: "/ko/research/Perception/"
+permalink: "/ko/research/인식/"
 layout: ko/research
 lang: ko
-title: "Perception"
-description: "The ability to accurately perceive users and surrounding situations through various inputs, and to think comprehensively based on this understanding, is essential."
+title: "인식"
+description: "다양한 입력을 통해 사용자와 주변 상황을 정확하게 인식하고 이해에 기반하여 종합적으로 판단하는 능력은 중요합니다."
 date: 2019-10-03
 weight: 3
 header_transparent: true
@@ -14,8 +14,8 @@ image: "/assets/images/gen/research/research-3.webp"
 
 hero:
   enabled: true
-  heading: "Perception"
-  sub_heading: "The ability to accurately perceive users and surrounding situations through various inputs, and to think comprehensively based on this understanding, is essential."
+  heading: "인식"
+  sub_heading: "다양한 입력을 통해 사용자와 주변 상황을 정확하게 인식하고 이해에 기반하여 종합적으로 판단하는 능력은 중요합니다."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
@@ -36,17 +36,17 @@ hero:
         style: "primary"
 ---
 
-# Perception
+# 인식
 
-Robotic systems can process images and video far faster than humans. Using that advantage in “perception” has paved the way for breakthroughs in security, surveillance and related activities. 
-Pairing that perception with manipulation enables robots to become “butlers” that can interpret and organize a cluttered environment for helping an aging population tidy their homes and accomplish other tasks that will help them continue to live independently. 
+Robotic systems can process images and video far faster than humans. Using that advantage in “인식” has paved the way for breakthroughs in security, surveillance and related activities. 
+Pairing that 인식 with manipulation enables robots to become “butlers” that can interpret and organize a cluttered environment for helping an aging population tidy their homes and accomplish other tasks that will help them continue to live independently. 
 
 ## How does this work? 
 
 Understanding what the robot sees in the world is a significant challenge. 
 The environmental lighting conditions vary, motion in the world is very complex, and there is a huge amount of data to process in the video. 
-Perception research investigates mathematical models and advanced computer algorithms to perceive the world. 
-Researchers in RGA Inc. investigate both physical models of perception as well as data-driven, machine learning models.
+인식 research investigates mathematical models and advanced computer algorithms to perceive the world. 
+Researchers in RGA Inc. investigate both physical models of 인식 as well as data-driven, machine learning models.
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
