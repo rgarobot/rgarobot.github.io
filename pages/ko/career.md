@@ -2,8 +2,8 @@
 
 layout:  ko/list
 collection: "career"
-title: rga 연구분야
-description: "A selection of our work and career."
+title: 연구분야
+description: "사족보행로봇, 소셜로봇, 반려로봇, rag 로봇, Boston dynamics, 레인보우로보틱스, unitree, 알지에이, 알지에이아이엔씨"
 permalink: "/ko/career/"
 lang: ko
 header_transparent: true
