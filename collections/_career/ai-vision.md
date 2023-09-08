@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "AI vision engineer"
 description: "Exploring and deploying various perception models such as object detection, facial emotion recognition, gesture recognition, and depth estimation"
 date: 2018-12-20
