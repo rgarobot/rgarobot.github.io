@@ -1,7 +1,6 @@
 {% capture header_classes %}
   {% if site.header.align %}header-{{ site.header.align}} {% endif %}{% if site.header.fixed %}header-fixed {% endif %}{% if page.header_transparent %}header-transparent {% endif %}{{ page.header_classes }}
 {% endcapture %}
-<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml" title="{{ site.title }} Feed">
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
