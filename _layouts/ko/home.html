@@ -175,48 +175,45 @@ body_classes: page-home
 </div>
 {% endif %}
 
-{% assign cards = site.research | sort: 'date' | reverse %}
-{% assign limit = page.research.limit | default: 3 %}
-{% assign sort_by = page.research.sort | default: 'date' %}
-{% assign columns = page.research.columns | default: 3 %}
-{% capture columns %}col-lg-{{ 12 | divided_by: columns }}{% endcapture %}
+{% assign cards = site.posts | sort: 'date' | reverse %}
+{% assign limit = page.posts.limit | default: 2 %}
+{% assign sort_by = page.posts.sort | default: 'date' %}
+{% assign columns =  page.posts.columns | default: 2 %}
+{% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
 {% if sort_by == 'weight' %}
   {% assign cards = cards | sort: 'weight' %}
 {% endif %}
 
-{% if page.research.enabled %}
+{% if page.posts.enabled %}
   <div class="section bg-base-bg-2">
     <div class="container">
       <div class="row">
 
         {% include framework/blocks/components/grid-header.html
-          heading=page.research.heading
-          sub_heading=page.research.sub_heading
+          heading=page.posts.heading
+          sub_heading=page.posts.sub_heading
           align="center"
         %}
         
         {% for card in cards limit: limit %}
-          {% if card.lang == "ko" %}
-            <div class="col-12 col-md-4 {{ columns }} mb-3 {% if forloop.first %}mt-0 {% endif %} {% if forloop.last %}mb-0 {% endif %}">
-              {% include theme/cards/card-research.html 
-                title=card.title 
-                description=card.description
-                fa_icon=card.fa_icon
-                icon=card.icon
-                url=card.url 
-                weight=card.weight
-              %}
-            </div>
-          {% endif %}
+          <div class="col-12 col-md-4 {{ columns }} mb-3 {% if forloop.first %}mt-0 {% endif %} {% if forloop.last %}mb-0 {% endif %}">
+            {% include theme/cards/card-posts.html 
+              title=card.title 
+              description=card.description
+              thumbnail=card.thumbnail
+              url=card.url 
+              weight=card.weight
+            %}
+          </div>
         {% endfor %}
 
         {% include framework/blocks/components/grid-footer.html 
-          view_more_button_text=page.research.view_more_button_text
-          view_more_button_link=page.research.view_more_button_link
+          view_more_button_text=page.posts.view_more_button_text
+          view_more_button_link=page.posts.view_more_button_link
           align="center"
         %}
 
-      </div>
     </div>
   </div>
+</div>
 {% endif %}
