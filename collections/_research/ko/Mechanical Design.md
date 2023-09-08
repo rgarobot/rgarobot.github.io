@@ -2,8 +2,8 @@
 permalink: "/ko/research/Mechanical%20Design/"
 layout: ko/research
 lang: ko
-title: "Mechanical Design"
-description: "Static and dynamic structural design through biomimetic joint mimicry"
+title: "기계 설계"
+description: "생체 모방 관절 모방을 통한 정적 및 동적 구조 설계"
 date: 2017-11-28T15:14:54+10:00
 weight: 1
 header_transparent: true
@@ -14,8 +14,8 @@ image: "/assets/images/gen/research/research-1.webp"
 
 hero:
   enabled: true
-  heading: "Mechanical Design"
-  sub_heading: "Static and dynamic structural design through biomimetic joint mimicry"
+  heading: "기계 설계"
+  sub_heading: "생체 모방 관절 모방을 통한 정적 및 동적 구조 설계"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
