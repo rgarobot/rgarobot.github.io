@@ -50,7 +50,7 @@ intro:
         fa_icon: "fas fa-check"
       - text: "연구하고"
         fa_icon: "fas fa-check"
-      - text: "깊게 생각하고"
+      - text: "생각하고"
         fa_icon: "fas fa-check"
       - text: "명상하고"
         fa_icon: "fas fa-check"
