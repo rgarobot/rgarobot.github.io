@@ -5,13 +5,13 @@ title: "회사소개"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/ko/about/"
-description: "RGA는 인간과 로봇이 더불어 살아가는 'Huropia'의 세기를 열고자 합니다.<br>RGA에게 로봇은 도구적인 수단이 아닌 가족과 친구입니다."
+description: "RGA는 인간과 로봇이 더불어 살아가는 'Huropia'의 세기를 열고자 합니다.<br>RGA에게 로봇은 도구적인 수단이 아닌<br>가족과 친구입니다."
 image: "/assets/images/gen/content/about.png"
 
 hero:
   enabled: false
   heading: "회사소개"
-  sub_heading: "RGA는 인간과 로봇이 더불어 살아가는 'Huropia'의 세기를 열고자 합니다.<br>RGA에게 로봇은 도구적인 수단이 아닌 가족과 친구입니다."
+  sub_heading: "RGA는 인간과 로봇이 더불어 살아가는 'Huropia'의 세기를 열고자 합니다.<br>RGA에게 로봇은 도구적인 수단이 아닌<br>가족과 친구입니다."
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
