@@ -9,7 +9,7 @@ header_transparent: true
 hero:
   enabled: true
   heading: "연구분야"
-  sub_heading: "R.pet을 만들기 위해 다양한 분야의 전문가들을 모여 고민합니다. R.pet은 사람과 공감하고 소통할 수 있으며, 어떠한 지형에서든 실내외에서 자유롭게 활동할 수 있습니다. 우리는 계속해서 도전 과제를 해결하고 해결책을 찾기 위해 협력하고 있습니다."
+  sub_heading: "R.pet을 만들기 위해 다양한 분야의 전문가들을 모여 고민합니다.<br>R.pet은 사람과 공감하고 소통할 수 있으며, 실내외에서<br>어떠한 지형에서든 자유롭게 활동할 수 있습니다. <br>우리는 계속해서 도전 과제를 해결하고<br>해결책을 찾기 위해 협력하고 있습니다."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true

@@ -9,7 +9,7 @@ header_transparent: true
 hero:
   enabled: true
   heading: "채용"
-  sub_heading: "우리의 미래로 향하는 여정에 당신이 함께해 주시길 기대합니다. 도전을 주저하지 마세요!"
+  sub_heading: "우리의 미래로 향하는 여정에 당신이 함께해 주시길 기대합니다.<br>도전을 주저하지 마세요!"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
