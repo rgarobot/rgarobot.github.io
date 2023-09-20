@@ -41,8 +41,7 @@ intro:
   enabled: true
   align: left
   image: "assets/images/gen/content/dog_drawing.png"
-  heading: 
-  "개는 인간에게 가장 친화적이고 대중적이며<br>오랫동안 깊은 교감을 해온 동물입니다.<br>RGA는 개를 공학적으로 재창조합니다.<br>RGA는 이를 R.pet 이라 명명합니다.<br>RGA 구성원은 도전적이고 창의적인 목표를<br>달성하기 위해 다음과 같은<br>원칙을 가지고 일합니다."
+  heading: "개는 인간에게 가장 친화적이고 대중적이며<br>오랫동안 깊은 교감을 해온 동물입니다.<br>RGA는 개를 공학적으로 재창조합니다.<br>RGA는 이를 R.pet 이라 명명합니다.<br>RGA 구성원은 도전적이고 창의적인 목표를<br>달성하기 위해 다음과 같은<br>원칙을 가지고 일합니다."
   sub_heading: ""
   features:
     enabled: true
