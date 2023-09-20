@@ -9,7 +9,10 @@ header_transparent: true
 hero:
   enabled: true
   heading: "RGA Inc."
-  sub_heading: "RGA는 세계 정상급의 인공지능 및 기계 엔지니어링 기술을 통해 인간과 지성적이고 감성적인 소통을 하며 실내 뿐만 아니라 야외활동을 함께 할 수 있는 로봇을 만듭니다."
+  sub_heading: 
+  "RGA는 세계 정상급의 인공지능 및 기계 엔지니어링 기술을 통해
+  인간과 지성적이고 감성적인 소통을 하며 실내 뿐만 아니라
+  야외활동을 함께 할 수 있는 로봇을 만듭니다."
   text_color: "#FFFFFF"
   background_color: "#f4e1a6"
   #"#1d2830"
