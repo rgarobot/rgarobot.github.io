@@ -53,23 +53,26 @@ RGA는 로봇의 기계적 메카니즘 뿐만 아니라 인간과 로봇이 공
 
 ## RGA's 미션 
 
-RGA의 목표를 달성하기 위해 우리 구성원들은:
+<div style="display: flex; align-items: start;">
+    <img src="your_image_url_here.jpg" alt="RGA's Image" style="flex: 0 0 auto; max-width: 50%; height: auto; margin-right: 20px;"> 
 
-1. **읽고**
-2. **연구하고**
-3. **생각하고**
-4. **명상하고**
-5. **운동하고**
-6. **기도하고**
-7. **실행합니다.**
-
-### Internalizing Practices
-
-일곱까지를 몸에 익히고 생활화한다는 것은 
-
-- 첫째 삶의 기초인 **건강**과
-- 둘째 사물의 본질을 꿰뚫는 **통찰력**과
-- 셋째 일의 시기와 흐름을 읽는 **대국적 안목**을 체화할 수 있게 된다는 것을 의미합니다
+    <div style="flex: 1; text-align: right;">
+        RGA의 목표를 달성하기 위해 우리 구성원들은:<br>
+        1. **읽고**<br>
+        2. **연구하고**<br>
+        3. **생각하고**<br>
+        4. **명상하고**<br>
+        5. **운동하고**<br>
+        6. **기도하고**<br>
+        7. **실행합니다.**<br>
+        <br>
+        ### Internalizing Practices<br>
+        일곱까지를 몸에 익히고 생활화한다는 것은 <br>
+        - 첫째 삶의 기초인 **건강**과<br>
+        - 둘째 사물의 본질을 꿰뚫는 **통찰력**과<br>
+        - 셋째 일의 시기와 흐름을 읽는 **대국적 안목**을 체화할 수 있게 된다는 것을 의미합니다<br>
+    </div>
+</div>
 
 ### RGA's 철학
 
