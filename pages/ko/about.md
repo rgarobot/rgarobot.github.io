@@ -53,7 +53,7 @@ RGA는 로봇의 기계적 메카니즘 뿐만 아니라 인간과 로봇이 공
 
 
 <div style="display: flex; align-items: stretch;">
-    <img src="your_image_url_here.jpg" alt="RGA's Image" style="flex: 0 0 auto; max-width: 50%; height: auto;"> 
+    <img src="/assets/images/gen/content/woman.png" alt="RGA's Image" style="flex: 0 0 auto; max-width: 50%; height: auto;"> 
 
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; padding-left: 20px;">
         <div>
