@@ -52,27 +52,30 @@ RGA는 로봇의 기계적 메카니즘 뿐만 아니라 인간과 로봇이 공
 왜냐하면 RGA는 우리가 만드는 창조물과 그것이 만들어가는 세계에 대한 무한한 책임을 가지고 있기 때문입니다.
 
 
-<div style="display: flex; align-items: flex-start;">
-    <img src="/assets/images/gen/content/woman.png" alt="RGA's Image" style="flex: 0 0 auto; max-width: 50%; height: auto;"> 
+<div style="display: flex; align-items: stretch;">
+    <img src="your_image_url_here.jpg" alt="RGA's Image" style="flex: 0 0 auto; max-width: 50%; height: auto;"> 
 
-    <div style="flex: 1; text-align: left; padding-left: 20px;">
-        <h2>RGA's 미션</h2>
-        RGA의 목표를 달성하기 위해 우리 구성원들은:<br>
-        1. <strong>읽고</strong><br>
-        2. <strong>연구하고</strong><br>
-        3. <strong>생각하고</strong><br>
-        4. <strong>명상하고</strong><br>
-        5. <strong>운동하고</strong><br>
-        6. <strong>기도하고</strong><br>
-        7. <strong>실행합니다.</strong><br>
-        <br>
-        <h3>Internalizing Practices</h3>
-        일곱까지를 몸에 익히고 생활화한다는 것은 
-        <ul>
-            <li>첫째 삶의 기초인 <strong>건강</strong>과</li>
-            <li>둘째 사물의 본질을 꿰뚫는 <strong>통찰력</strong>과</li>
-            <li>셋째 일의 시기와 흐름을 읽는 <strong>대국적 안목</strong>을 체화할 수 있게 된다는 것을 의미합니다</li>
-        </ul>
+    <div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; padding-left: 20px;">
+        <div>
+            <h2>RGA's 미션</h2>
+            RGA의 목표를 달성하기 위해 우리 구성원들은:<br>
+            1. <strong>읽고</strong><br>
+            2. <strong>연구하고</strong><br>
+            3. <strong>생각하고</strong><br>
+            4. <strong>명상하고</strong><br>
+            5. <strong>운동하고</strong><br>
+            6. <strong>기도하고</strong><br>
+            7. <strong>실행합니다.</strong><br>
+        </div>
+        <div>
+            <h3>Internalizing Practices</h3>
+            일곱까지를 몸에 익히고 생활화한다는 것은 
+            <ul>
+                <li>첫째 삶의 기초인 <strong>건강</strong>과</li>
+                <li>둘째 사물의 본질을 꿰뚫는 <strong>통찰력</strong>과</li>
+                <li>셋째 일의 시기와 흐름을 읽는 <strong>대국적 안목</strong>을 체화할 수 있게 된다는 것을 의미합니다</li>
+            </ul>
+        </div>
     </div>
 </div>
 
