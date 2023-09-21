@@ -54,7 +54,7 @@ RGA는 로봇의 기계적 메카니즘 뿐만 아니라 인간과 로봇이 공
 ## RGA's 미션 
 
 <div style="display: flex; align-items: start;">
-    <img src="your_image_url_here.jpg" alt="RGA's Image" style="flex: 0 0 auto; max-width: 50%; height: auto; margin-right: 20px;"> 
+    <img src="your_image_url_here.jpg" alt="RGA's Image" style="flex: 0 0 auto; max-width: 50%; height: auto;"> 
 
     <div style="flex: 1; text-align: right;">
         RGA의 목표를 달성하기 위해 우리 구성원들은:<br>
