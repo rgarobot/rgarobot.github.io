@@ -42,25 +42,30 @@ RGA aims to usher in the century of 'Huropia', where humans and robots coexist h
 
 RGA delves not only into the mechanical mechanisms of robots but also the modalities of human-robot coexistence, the existential purpose of robots, and the ethical and philosophical issues related to living alongside them. This is because RGA holds boundless responsibility for the creations we produce and the world they shape.
 
-## RGA's Mission 
+<div style="display: flex; align-items: center;">
+    <img src="/assets/images/gen/content/woman.png" alt="RGA's Image" style="flex: 0 0 auto; max-width: 50%; height: auto;"> 
 
-To achieve RGA's mission, our team members:
-
-1. **Read** to expand their knowledge.
-2. **Research** to delve deeper.
-3. **Contemplate** to gain insights.
-4. **Meditate** for clarity.
-5. **Exercise** for holistic well-being.
-6. **Pray** for spiritual grounding.
-7. **Act** on their insights.
-
-### Internalizing Practices
-
-Internalizing these seven practices signifies:
-
-- Establishing a foundation of **health** in life.
-- Cultivating **insight** into the essence of things.
-- Achieving a **global perspective** to discern the timing and flow of work.
+    <div style="flex: 1; text-align: left; padding-left: 20px;">
+        <h2>RGA's Mission</h2>
+        To achieve RGA's mission, our team members:
+        <ol>
+            <li><strong>Read</strong> to expand their knowledge.</li>
+            <li><strong>Research</strong> to delve deeper.</li>
+            <li><strong>Contemplate</strong> to gain insights.</li>
+            <li><strong>Meditate</strong> for clarity.</li>
+            <li><strong>Exercise</strong> for holistic well-being.</li>
+            <li><strong>Pray</strong> for spiritual grounding.</li>
+            <li><strong>Act</strong> on their insights.</li>
+        </ol>
+        <h3>Internalizing Practices</h3>
+        Internalizing these seven practices signifies:
+        <ul>
+            <li>Establishing a foundation of <strong>health</strong> in life.</li>
+            <li>Cultivating <strong>insight</strong> into the essence of things.</li>
+            <li>Achieving a <strong>global perspective</strong> to discern the timing and flow of work.</li>
+        </ul>
+    </div>
+</div>
 
 ### RGA's Philosophy
 
