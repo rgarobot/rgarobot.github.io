@@ -52,8 +52,8 @@ RGA는 로봇의 기계적 메카니즘 뿐만 아니라 인간과 로봇이 공
 왜냐하면 RGA는 우리가 만드는 창조물과 그것이 만들어가는 세계에 대한 무한한 책임을 가지고 있기 때문입니다.
 
 
-<div style="display: flex; align-items: start;">
-    <img src="/assets/images/gen/content/woman.png" alt="RGA's Image" style="flex: 0 0 auto; max-width: 50%; height: auto;"> 
+<div style="display: flex; align-items: flex-start;">
+    <img src="your_image_url_here.jpg" alt="RGA's Image" style="flex: 0 0 auto; max-width: 50%; height: auto;"> 
 
     <div style="flex: 1; text-align: left; padding-left: 20px;">
         <h2>RGA's 미션</h2>
