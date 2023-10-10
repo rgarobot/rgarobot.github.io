@@ -1,0 +1,5 @@
+﻿{
+  "Description": "웹 사이트 루트의 위치 Microsoft 365에 대한 도메인 소유권 확인 파일",
+  "Domain": "rgarobot.com",
+  "Id": "b8c9f3e9-e72e-40e7-aab1-f8dc35c082e1"
+}
