@@ -34,38 +34,25 @@ hero:
         style: "primary"
 ---
 
-# Importance of AI and Perception in Quadruped Walking Robots
+## Recognizing and executing commands based on users' faces, voices, gestures, and actions.
+  - Deep learning model for emotion recognition through facial expressions.
+  
+  - Deep learning model for gesture and pose recognition.
+  
+  - Deep learning model for emotion recognition through voice.
 
-Having obtained a PhD in both AI Engineering and Robotic Engineering and with a decade-long professorship experience, I founded a company deeply rooted in these disciplines. Let's delve into why AI and, more specifically, perception is crucial for our research in four-legged walking robots.
+## Accurate situation recognition and complex thinking through the fusion of various sensors.
+  - Developing accurate feature extraction techniques and feature space projection for vision and voice inputs.
+  
+  - Enhancing accuracy through explicit/implicit alignment and joint learning.
+  
+## Personality formation through interaction with users.
+  - Collecting and securing user data for interaction.
+  - Personality formation of R.pet through continuous learning on Cloud and devices.
 
-## Significance of AI in Robotics
-
-Artificial Intelligence offers a transformative advantage to robotic systems, not just in processing data, but in comprehending and interpreting the vast streams of data they encounter. The potential of a robot isn't solely in its mechanical capacity but in its intelligence, its ability to interpret, learn from, and act upon data from its environment. Quadruped robots, given their complex structure, can harness AI to better understand and adapt to varying terrains and environments. 
-
-## Role of Perception
-
-### Speed and Efficiency
-
-Four-legged robots, much like their human counterparts, require "sight" or a sense of their surroundings. However, unlike humans, these robots can process visual data at unparalleled speeds. This high-speed perception is vital for tasks that demand real-time responses, especially in unpredictable environments. 
-
-### Enabling Autonomy
-
-As we move towards a future where robots are expected to assist in personal and professional tasks autonomously, perception becomes the cornerstone of such functionalities. By combining perception with AI-driven decision-making algorithms, a robot can serve as an efficient assistant, capable of tidying cluttered spaces, assisting the elderly, or even conducting surveillance.
-
-## The Challenges
-
-Understanding a robot's surroundings isn't straightforward. Environmental factors, lighting conditions, motion, and the sheer volume of data in video streams pose substantial challenges. At our company, we explore both the physics of perception and data-driven AI models, leveraging the strengths of deep neural networks, inspired by human cognitive processes.
-
-![Designing in Figma](/assets/images/gen/content/content-1.webp)
-
-Deep neural networks excel in recognizing everyday events, like people walking. However, they struggle with less frequent occurrences. Our researchers are pioneering techniques to improve this, aiming to equip robots with human-like adaptability, allowing them to respond aptly to new situations with minimal data.
-
-### Beyond Just Seeing
-
-Seeing isn't enough. To act upon its environment, a robot must understand the context, significance, and potential interaction with each element it perceives. Take our 'Fetch' robot as an example; while it can pick objects based on human demonstrations, for more advanced tasks, it must perceive and interpret its surroundings at a granular level, understanding the significance of each object and its potential interactions.
-
-Imagine a robot preparing breakfast. The number of objects, their interrelationships, sequences of tasks, and the intricacies involved require an exceptional level of perception and reasoning. Thus, our goal is not just to make robots "see" but to make them "understand."
-
-## The Path Forward
-
-Our journey in four-legged robot research is directed towards crafting robots that don't just move but think, perceive, and act with precision and purpose. Through rigorous research, constant innovation, and a vision powered by decades of expertise, we strive to usher in a new era of intelligent, perceptive robots that can seamlessly integrate and assist in real-world tasks.
+## Autonomous movement through simultaneous location estimation and map creation.
+  - Stable map creation based on accurate current robot location estimation.
+  
+  - Efficiently processing various sensor data for rapid map construction.
+  
+  - Minimizing noise and errors through the fusion of various sensors like RGB, Lidar, etc.
