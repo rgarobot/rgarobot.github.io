@@ -7,8 +7,8 @@ weight: 4
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-design-100.png"
-thumbnail: "/assets/images/gen/research/research-4-thumbnail.webp"
-image: "/assets/images/gen/research/research-4.webp"
+thumbnail: "/assets/images/gen/research/research-1.webp"
+image: "/assets/images/gen/research/research-1.webp"
 
 hero:
   enabled: true

@@ -7,8 +7,8 @@ weight: 1
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-source-code-100.png"
-thumbnail: "/assets/images/gen/research/research-1-thumbnail.webp"
-image: "/assets/images/gen/research/research-1.webp"
+thumbnail: "/assets/images/gen/research/robot_design.jpg"
+image: "/assets/images/gen/research/robot_design.jpg"
 
 hero:
   enabled: true
