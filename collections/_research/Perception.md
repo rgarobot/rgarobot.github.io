@@ -48,6 +48,7 @@ hero:
   
 ## Personality formation through interaction with users.
   - Collecting and securing user data for interaction.
+  
   - Personality formation of R.pet through continuous learning on Cloud and devices.
 
 ## Autonomous movement through simultaneous location estimation and map creation.
