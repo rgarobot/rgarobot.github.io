@@ -1,7 +1,7 @@
 ---
 lang: en
 title: "Motion Planning"
-description: "Motion planning is a term used in robotics for the process of breaking down a desired movement task into discrete motions that satisfy movement constraints and possibly optimize some aspect of the movement."
+description: "In diverse environments, we identify movement constraints, estimate our own position, and choose optimized paths and actions."
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
@@ -13,7 +13,7 @@ image: "/assets/images/gen/research/research-4.webp"
 hero:
   enabled: true
   heading: "Motion Planning"
-  sub_heading: "Motion planning is a term used in robotics for the process of breaking down a desired movement task into discrete motions that satisfy movement constraints and possibly optimize some aspect of the movement."
+  sub_heading: "In diverse environments, we identify movement constraints, estimate our own position, and choose optimized paths and actions."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

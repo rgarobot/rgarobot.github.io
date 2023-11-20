@@ -1,7 +1,7 @@
 ---
 lang: en
 title: "Design"
-description: "For coexistence in human life, innovative design and material choices that evoke a sense of intimacy are essential."
+description: "To embody aesthetic codes and values that are friendly yet majestic and lead the spirit of the times, we develop innovative designs and materials."
 date: 2021-07-23
 weight: 5
 lang: en
@@ -14,7 +14,7 @@ image: "/assets/images/gen/research/research-5.webp"
 hero:
   enabled: true
   heading: "Design"
-  sub_heading: "For coexistence in human life, innovative design and material choices that evoke a sense of intimacy are essential."
+  sub_heading: "To embody aesthetic codes and values that are friendly yet majestic and lead the spirit of the times, we develop innovative designs and materials."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

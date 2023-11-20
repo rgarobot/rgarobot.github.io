@@ -1,7 +1,7 @@
 ---
 lang: en
 title: "Mechanical Design"
-description: "Static and dynamic structural design through biomimetic joint mimicry"
+description: "For natural walking and aesthetic completion, we design static and dynamic structures through biomimetic technology."
 date: 2017-11-28T15:14:54+10:00
 weight: 1
 header_transparent: true
@@ -13,7 +13,7 @@ image: "/assets/images/gen/research/research-1.webp"
 hero:
   enabled: true
   heading: "Mechanical Design"
-  sub_heading: "Static and dynamic structural design through biomimetic joint mimicry"
+  sub_heading: "For natural walking and aesthetic completion, we design static and dynamic structures through biomimetic technology."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true

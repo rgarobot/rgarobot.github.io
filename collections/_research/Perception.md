@@ -1,7 +1,7 @@
 ---
 lang: en
 title: "Perception"
-description: "The ability to accurately perceive users and surrounding situations through various inputs, and to think comprehensively based on this understanding, is essential."
+description: "We develop technologies that accurately recognize users and surrounding situations based on information entered through various sensors and make comprehensive judgments accordingly."
 date: 2019-10-03
 weight: 3
 header_transparent: true
@@ -13,7 +13,7 @@ image: "/assets/images/gen/research/research-3.webp"
 hero:
   enabled: true
   heading: "Perception"
-  sub_heading: "The ability to accurately perceive users and surrounding situations through various inputs, and to think comprehensively based on this understanding, is essential."
+  sub_heading: "We develop technologies that accurately recognize users and surrounding situations based on information entered through various sensors and make comprehensive judgments accordingly."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

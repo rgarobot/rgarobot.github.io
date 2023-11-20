@@ -10,7 +10,7 @@ meta_title: 알지에이 - RGA Inc.
 hero:
   enabled: true
   heading: "RGA Inc."
-  sub_heading: "RGA is creating robots that can always be with humans, both indoors and outdoors, by leveraging top-notch artificial intelligence and mechanical engineering technologies, enabling intellectual and emotional communication with people."
+  sub_heading: "RGA develops robots akin to friends and family, capable of intellectual and emotional communication with humans, both indoors and outdoors, utilizing world-class artificial intelligence and mechanical engineering technologies."
   text_color: "#FFFFFF"
   background_color: "#f4e1a6"
   #"#1d2830"
@@ -42,7 +42,7 @@ intro:
   enabled: true
   align: left
   image: "assets/images/gen/content/dog_drawing.png"
-  heading: "Dogs are the most affable and popular animals with humans, having communicated with them on a deep level for a long time. RGA recreates these dogs through engineering. RGA has named this the R.pet. We work with the following principles to achieve challenging and creative goals."
+  heading: "The first is a robotic companion dog. Historically, dogs have deeply connected with humans for a very long time and are the most sociable and popular animals. RGA re-engineers dogs in an engineering context."
   sub_heading: ""
   features:
     enabled: true

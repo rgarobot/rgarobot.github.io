@@ -1,7 +1,7 @@
 ---
 lang: en
 title: "Robot Control"
-description: "We strive to control the real-time stable gait of a quadruped walking robot in various environments, aiming to maintain consistent and balanced movement through diverse attempts."
+description: "We develop technologies that control four-legged robots for stable walking in real-time in various environments and maintain consistent, balanced movements."
 date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
@@ -12,7 +12,7 @@ image: "/assets/images/gen/research/research-2.webp"
 hero:
   enabled: true
   heading: "Robot Control"
-  sub_heading: "We strive to control the real-time stable gait of a quadruped walking robot in various environments, aiming to maintain consistent and balanced movement through diverse attempts."
+  sub_heading: "We develop technologies that control four-legged robots for stable walking in real-time in various environments and maintain consistent, balanced movements."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
