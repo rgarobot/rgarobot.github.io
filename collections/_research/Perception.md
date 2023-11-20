@@ -18,7 +18,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/research/research-3.webp"
+  background_image: "/assets/images/gen/research/perception-2.jpg"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

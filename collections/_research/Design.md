@@ -19,7 +19,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/research/research-5.webp"
+  background_image: "/assets/images/gen/research/design.jpg"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
