@@ -43,24 +43,24 @@ intro:
   align: left
   image: "assets/images/gen/content/dog_drawing.png"
   heading: "The first is a robotic companion dog. Historically, dogs have deeply connected with humans for a very long time and are the most sociable and popular animals. RGA re-engineers dogs in an engineering context."
-  sub_heading: ""
-  features:
-    enabled: true
-    list:
-      - text: "READ"
-        fa_icon: "fas fa-check"
-      - text: "RESEARCH"
-        fa_icon: "fas fa-check"
-      - text: "CONTEMPLATE"
-        fa_icon: "fas fa-check"
-      - text: "MEDITATE"
-        fa_icon: "fas fa-check"
-      - text: "EXERCISE"
-        fa_icon: "fas fa-check"
-      - text: "PRAY"
-        fa_icon: "fas fa-check"
-      - text: "ACT"
-        fa_icon: "fas fa-check"
+  #sub_heading: ""
+  #features:
+  #  enabled: true
+  #  list:
+  #    - text: "READ"
+  #      fa_icon: "fas fa-check"
+  #    - text: "RESEARCH"
+  #      fa_icon: "fas fa-check"
+  #    - text: "CONTEMPLATE"
+  #      fa_icon: "fas fa-check"
+  #    - text: "MEDITATE"
+  #      fa_icon: "fas fa-check"
+  #    - text: "EXERCISE"
+  #      fa_icon: "fas fa-check"
+  #    - text: "PRAY"
+  #      fa_icon: "fas fa-check"
+  #    - text: "ACT"
+  #      fa_icon: "fas fa-check"
   view_more_button_text: "About Us"
   view_more_button_link: "/about"
 buttons:
