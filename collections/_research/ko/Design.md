@@ -3,7 +3,7 @@ permalink: "/ko/research/Design/"
 layout: ko/research
 lang: ko
 title: "디자인"
-description: "인간의 삶에서 공존을 위해서는 친근감을 일으키는 혁신적인 디자인과 소재 선택이 필수적입니다."
+description: "친근하면서도 웅장하며 시대 정신을 선도할 수 있는 미적 코드와 가치를 구현하기 위해 혁신적인 디자인과 소재를 개발합니다."
 date: 2021-07-23
 weight: 5
 header_transparent: true
@@ -15,7 +15,7 @@ image: "/assets/images/gen/research/research-5.webp"
 hero:
   enabled: true
   heading: "디자인"
-  sub_heading: "인간의 삶에서 공존을 위해서는 친근감을 일으키는 혁신적인 디자인과 소재 선택이 필수적입니다."
+  sub_heading: "친근하면서도 웅장하며 시대 정신을 선도할 수 있는 미적 코드와 가치를 구현하기 위해 혁신적인 디자인과 소재를 개발합니다."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

@@ -3,7 +3,7 @@ permalink: "/ko/career/robot-design/"
 layout: ko/career
 lang: ko
 title: "로봇 설계 엔지니어"
-description: "자연스러운 걷기를 가능케 하기 위해 로봇의 설계, 제작, 조립 및 현장 테스트를 담당"
+description: "자연스러운 보행을 위한 로봇의 설계, 제작, 조립 및 현장 테스트"
 date: 2018-12-20
 weight: 2
 header_transparent: true
@@ -14,7 +14,7 @@ client: "Brisbane City Council"
 hero:
   enabled: true
   heading: "로봇 설계 엔지니어"
-  sub_heading: "자연스러운 걷기를 가능케 하기 위해 로봇의 내형 및 외형 설계, 제작, 조립 및 현장 테스트를 담당"
+  sub_heading: "자연스러운 보행을 위한 로봇의 설계, 제작, 조립 및 현장 테스트"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false

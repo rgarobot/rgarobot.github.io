@@ -3,7 +3,7 @@ permalink: "/ko/career/ai-vision/"
 layout: ko/career
 lang: ko
 title: "인공지능 인식 엔지니어"
-description: "다양한 지각 모델, 예를 들면 객체 탐지, 얼굴 감정 인식, 제스처 인식, 깊이 추정 등을 탐색하고 배포하기"
+description: "객체 추적, 얼굴 감정 인식, 제스처 인식, 깊이 추정 등 다양한 지각 모델 개발"
 date: 2018-12-20
 weight: 1
 header_transparent: true
@@ -14,7 +14,7 @@ client: "Zero Developments Pty Ltd"
 hero:
   enabled: true
   heading: "인공지능 인식 엔지니어"
-  sub_heading: "다양한 지각 모델, 예를 들면 객체 탐지, 얼굴 감정 인식, 제스처 인식, 깊이 추정 등을 탐색하고 배포하기"
+  sub_heading: "객체 추적, 얼굴 감정 인식, 제스처 인식, 깊이 추정 등 다양한 지각 모델 개발"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false

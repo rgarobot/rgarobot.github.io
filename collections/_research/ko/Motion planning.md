@@ -3,7 +3,7 @@ permalink: "/ko/research/Motion%20planning/"
 layout: ko/research
 lang: ko
 title: "모션 계획"
-description: "모션 계획은 로봇공학에서 사용되는 용어로, 움직임 제약 조건을 만족하고 움직임의 어떤 측면을 최적화할 수 있는 이산 움직임으로 원하는 움직임 작업을 분해하는 과정을 나타냅니다."
+description: "다양한 환경에서 움직임 제약 조건을 파악하고 스스로 위치를 추정하여 최적화된 경로 및 동작을 선택합니다."
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
@@ -15,7 +15,7 @@ image: "/assets/images/gen/research/research-4.webp"
 hero:
   enabled: true
   heading: "모션 계획"
-  sub_heading: "모션 계획은 로봇공학에서 사용되는 용어로, 움직임 제약 조건을 만족하고 움직임의 어떤 측면을 최적화할 수 있는 이산 움직임으로 원하는 움직임 작업을 분해하는 과정을 나타냅니다."
+  sub_heading: "다양한 환경에서 움직임 제약 조건을 파악하고 스스로 위치를 추정하여 최적화된 경로 및 동작을 선택합니다."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

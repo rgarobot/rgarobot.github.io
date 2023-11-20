@@ -9,7 +9,7 @@ header_transparent: true
 hero:
   enabled: true
   heading: "RGA Inc."
-  sub_heading: "RGA는 세계 정상급의 인공지능 및 기계 엔지니어링 기술을 통해<br>인간과 지성적이고 감성적인 소통을 하며 실내 뿐만 아니라<br>야외활동을 함께 할 수 있는 로봇을 만듭니다."
+  sub_heading: "RGA는 세계적 수준의 인공지능 및 기계 엔지니어링 기술을 통해<br>인간과 지성적이고 감성적인 소통을 하며 실내 뿐 아니라<br>야외 활동을 함께 할 수 있는 친구이자 가족 같은 로봇을 만듭니다."
   text_color: "#FFFFFF"
   background_color: "#f4e1a6"
   #"#1d2830"
@@ -41,25 +41,26 @@ intro:
   enabled: true
   align: left
   image: "assets/images/gen/content/dog_drawing.png"
-  heading: "개는 인간에게 가장 친화적이고 대중적이며<br>오랫동안 깊은 교감을 해온 동물입니다.<br>RGA는 개를 공학적으로 재창조합니다.<br>RGA는 이를 R.pet 이라 명명합니다.<br>RGA 구성원은 도전적이고 창의적인 목표를<br>달성하기 위해 다음과 같은<br>원칙을 가지고 일합니다."
-  sub_heading: ""
-  features:
-    enabled: true
-    list:
-      - text: "읽고"
-        fa_icon: "fas fa-check"
-      - text: "연구하고"
-        fa_icon: "fas fa-check"
-      - text: "생각하고"
-        fa_icon: "fas fa-check"
-      - text: "명상하고"
-        fa_icon: "fas fa-check"
-      - text: "운동하고"
-        fa_icon: "fas fa-check"
-      - text: "기도하고"
-        fa_icon: "fas fa-check"
-      - text: "실행합니다"
-        fa_icon: "fas fa-check"
+  heading: "그 첫번째는 로봇반려견입니다.<br>개는 역사적으로 아주 오랜 시간동안<br>인간과 깊은 교감을 해왔고<br>가장 친화적이며 대중적인 동물입니다.<br>RGA는 개를 공학적으로 재창조합니다."
+
+# sub_heading: ""
+#  features:
+#    enabled: true
+#    list:
+#      - text: "읽고"
+#        fa_icon: "fas fa-check"
+#      - text: "연구하고"
+#        fa_icon: "fas fa-check"
+#      - text: "생각하고"
+#        fa_icon: "fas fa-check"
+#      - text: "명상하고"
+#        fa_icon: "fas fa-check"
+#      - text: "운동하고"
+#        fa_icon: "fas fa-check"
+#      - text: "기도하고"
+#        fa_icon: "fas fa-check"
+#      - text: "실행합니다"
+#        fa_icon: "fas fa-check"
   view_more_button_text: "About Us"
   view_more_button_link: "/ko/about"
 buttons:

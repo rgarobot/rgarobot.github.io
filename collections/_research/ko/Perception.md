@@ -3,7 +3,7 @@ permalink: "/ko/research/Perception/"
 layout: ko/research
 lang: ko
 title: "인식"
-description: "다양한 입력을 통해 사용자와 주변 상황을 정확하게 인식하고 이해에 기반하여 종합적으로 판단하는 능력은 중요합니다."
+description: "다양한 센서를 통해 입력된 정보를 바탕으로 사용자와 주변 상황을 정확하게 인식하고 이에 따라 종합적 판단을 내릴 수 있는 기술을 개발합니다."
 date: 2019-10-03
 weight: 3
 header_transparent: true
@@ -15,7 +15,7 @@ image: "/assets/images/gen/research/research-3.webp"
 hero:
   enabled: true
   heading: "인식"
-  sub_heading: "다양한 입력을 통해 사용자와 주변 상황을 정확하게 인식하고 이해에 기반하여 종합적으로 판단하는 능력은 중요합니다."
+  sub_heading: "다양한 센서를 통해 입력된 정보를 바탕으로 사용자와 주변 상황을 정확하게 인식하고 이에 따라 종합적 판단을 내릴 수 있는 기술을 개발합니다."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
