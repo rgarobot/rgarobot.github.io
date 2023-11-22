@@ -41,7 +41,7 @@ intro:
   enabled: true
   align: left
   image: "assets/images/gen/content/dog_drawing.png"
-  heading: "그 첫 번째는 로봇반려견입니다.<br>개는 역사적으로 아주 오랜 시간동안<br>인간과 깊은 교감을 해왔고<br>가장 친화적이며 대중적인 동물입니다.<br>RGA는 개를 공학적으로 재창조합니다."
+  heading: "그 첫 번째는 로봇반려견입니다.<br>개는 역사적으로 아주 오랜 시간동안<br>인간과 깊은 교감을 해왔고<br>가장 친화적이며 대중적인 동물입니다.<br>RGA는 개를 공학적으로 재창조합니다.<br>우리는 이것을 R.pet이라 명명합니다."
 
 # sub_heading: ""
 #  features:
