@@ -41,7 +41,7 @@ intro:
   enabled: true
   align: left
   image: "assets/images/gen/content/dog_drawing.png"
-  heading: "그 첫번째는 로봇반려견입니다.<br>개는 역사적으로 아주 오랜 시간동안<br>인간과 깊은 교감을 해왔고<br>가장 친화적이며 대중적인 동물입니다.<br>RGA는 개를 공학적으로 재창조합니다."
+  heading: "그 첫 번째는 로봇반려견입니다.<br>개는 역사적으로 아주 오랜 시간동안<br>인간과 깊은 교감을 해왔고<br>가장 친화적이며 대중적인 동물입니다.<br>RGA는 개를 공학적으로 재창조합니다."
 
 # sub_heading: ""
 #  features:
@@ -103,8 +103,8 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: 어쩌면 인생의 가장 큰 기회
-  sub_heading: "우리의 미래를 향한 여정에 함께하세요"
+  heading: 미래로 향하는 우리의 여정에 당신이 함께 해주시길 기대합니다.
+  sub_heading: "도전을 주저하지 마세요!"
   features:
     enabled: false
     list:

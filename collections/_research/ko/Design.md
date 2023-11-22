@@ -37,12 +37,7 @@ hero:
 ---
 
 ## DESIGN
-- 고급스럽고 세련된 외관 디자인
-
-- 사용자 친화적인 외관 디자인 및 소재
-
-- 세계적인 디자인하우스와 협력 및 전문인력
-### Layer, Priestmangoode, Frog
+- 세계적인 디자인하우스와 협력 및 전문인력 보유
 
 
 ![Design In Figma](/assets/images/gen/content/content-2.webp)
