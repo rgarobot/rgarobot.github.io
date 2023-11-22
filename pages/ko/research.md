@@ -53,8 +53,8 @@ outro:
   enabled: true
   align: left
   image: false
-  heading: 어쩌면 인생의 가장 큰 기회
-  sub_heading: "우리의 미래를 향한 여정에 함께하세요"
+  heading: 미래로 향하는 우리의 여정에<br>당신이 함께 해주시길 기대합니다.
+  sub_heading: "도전을 주저하지 마세요!"
   buttons:
     enabled: true
     list:

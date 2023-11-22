@@ -2,14 +2,14 @@
 layout: ko/list
 lang: ko
 title: "채용"
-description: "우리의 미래로 향하는 여정에 당신이 함께해 주시길 기대합니다. 도전을 주저하지 마세요!"
+description: "새로운 문명의 도래를 이끌어낼<br>진정한 로봇의 창조를 위한<br>위대한 여정에 당신을 초대합니다."
 permalink: "/ko/career/"
 header_transparent: true
 
 hero:
   enabled: true
   heading: "채용"
-  sub_heading: "우리의 미래로 향하는 여정에 당신이 함께해 주시길 기대합니다.<br>도전을 주저하지 마세요!"
+  sub_heading: "새로운 문명의 도래를 이끌어낼<br>진정한 로봇의 창조를 위한<br>위대한 여정에 당신을 초대합니다."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
@@ -60,8 +60,8 @@ outro:
   enabled: true
   align: left
   image: false
-  heading: 어쩌면 인생의 가장 큰 기회
-  sub_heading: "우리의 미래를 향한 여정에 함께하세요"
+  heading: 미래로 향하는 우리의 여정에<br>당신이 함께 해주시길 기대합니다.
+  sub_heading: "도전을 주저하지 마세요!"
   buttons:
     enabled: true
     list:

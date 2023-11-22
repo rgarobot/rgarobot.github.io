@@ -103,7 +103,7 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: 미래로 향하는 우리의 여정에 당신이 함께 해주시길 기대합니다.
+  heading: 미래로 향하는 우리의 여정에<br>당신이 함께 해주시길 기대합니다.
   sub_heading: "도전을 주저하지 마세요!"
   features:
     enabled: false
