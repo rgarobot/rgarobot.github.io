@@ -99,6 +99,3 @@ _"Do you want to sell sugared water for the rest of your life, or do you want to
 - False information may result in the rescinding of the offer
 - This posting may close early if we find the right candidate
 - Veterans and persons with disabilities are encouraged to apply in accordance with related laws
-
-
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/career/career-1-2.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}

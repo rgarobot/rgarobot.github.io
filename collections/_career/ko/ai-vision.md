@@ -46,10 +46,9 @@ RGA는 세계 정상급의 인공 지능 및 기계 엔지니어링 기술을 �
 어릴 적 우리가 꿈꾸던 로봇은 과연 노예였을까요?
 RGA 의 시작은 바로 이러한 의문이었고 RGA의 해답은 지금 우리가 몰두하고 있는 하루하루에 있습니다.
 우리의 매일은 진정한 로봇 시대의 도래 나아가 새로운 문명의 창조에 있어 가장 강력하고 주효한 trigger가 될 것이라 확신합니다. 
-RGA는 여러분으로 하여금 엔지니어로서의 전문성과 자긍심과 성장에 대한 열망을 끝간 데 없이 펼쳐 나아갈 수 있는 vehicle 이 되고자 합니다.
+RGA는 여러분으로 하여금 엔지니어로서의 전문성과 자긍심과 성장에 대한 열망을 끝간 데 없이 펼쳐 나아갈 수 있게끔 하는 vehicle 이 되고자 합니다.
 
 RGA는 여러분이 인터넷 시대, 모바일 시대, 플랫폼 시대에 이은 로봇 시대의 개척자가 될 수 있도록 모든 자원을 투입할 것입니다.
-RGA는 시리즈 B 수준의 투자금에 달하는 자체 자금을 보유하고 있습니다. 
 RGA는 프로젝트의 중단 없는 지속성과 기업의 영속성이 확고히 보장되는 기업입니다.
 
 RGA는 각 분야에서 탁월한 역량을 갖춘 인재를 원하며 구성원 간의 유기적 협업을 통해 개개인의 역량을 극대화시킬 수 있는 환경을 구축하고자 합니다. 
@@ -178,5 +177,3 @@ RGA는 각 분야에서 탁월한 역량을 갖춘 인재를 원하며 구성원
 - 해당 공고는 수시 채용으로, 채용 완료 시 조기 마감될 수 있습니다.
 
 - 국가유공자 및 장애인 등 취업 보호 대상자는 관계 법령에 따라 우대합니다.
-
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/career/career-1-2.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
