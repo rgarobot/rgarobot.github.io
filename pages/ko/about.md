@@ -56,15 +56,13 @@ RGA는 로봇의 기계적 메커니즘 뿐만 아니라 인간과 로봇이 공
     <img src="/assets/images/gen/content/woman.png" alt="RGA's Image" style="flex: 0 0 auto; max-width: 50%; height: auto;"> 
 
     <div style="flex: 1; text-align: left; padding-left: 20px;">
-        <h2>RGA's 미션</h2>
+        <h1>RGA's 미션</h1>
         RGA 는 삶의 동반자로서의 로봇을 개발하고 로봇이 효과적으로 활용될 수 있는 생태계를 구축함으로써 인류에게 삶의 풍요와 행복을 선사합니다.<br>
         <br>
-        <h2>RGA's 철학</h2>
+        <h1>RGA's 철학</h1>
         누구보다 나아진다는 것<br>
         누구를 이기는 것<br>
         일등이 된다는 것<br>
-        RGA는 다른 누구를 전제로 하는 존재의 의미를 배격합니다.<br>
-        RGA와 RGA의 구성원은 제품의 완전무결함과 제품의 사회적 의미와 제품이 만들어갈 미래의 모습만을<br>
-        연구하고 고민하며 전인미답의 경지에 이를 것입니다.
+        RGA는 다른 누구를 전제로 하는 존재의 의미를 배격합니다. RGA와 RGA의 구성원은 제품의 완전무결함과 제품의 사회적 의미와 제품이 만들어갈 미래의 모습만을 연구하고 고민하며 전인미답의 경지에 이를 것입니다.
     </div>
 </div>
