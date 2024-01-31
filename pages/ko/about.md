@@ -58,14 +58,6 @@ RGA는 로봇의 기계적 메커니즘 뿐만 아니라 인간과 로봇이 공
     <div style="flex: 1; text-align: left; padding-left: 20px;">
         <h2>RGA's 미션</h2>
         RGA 는 삶의 동반자로서의 로봇을 개발하고 로봇이 효과적으로 활용될 수 있는 생태계를 구축함으로써 인류에게 삶의 풍요와 행복을 선사합니다. 
-        <br>
-        <h3>Internalizing Practices</h3>
-        일곱까지를 몸에 익히고 생활화한다는 것은 
-        <ul>
-            <li>첫째 삶의 기초인 <strong>건강</strong>과</li>
-            <li>둘째 사물의 본질을 꿰뚫는 <strong>통찰력</strong>과</li>
-            <li>셋째 일의 시기와 흐름을 읽는 <strong>대국적 안목</strong>을 체화할 수 있게 된다는 것을 의미합니다.</li>
-        </ul>
     </div>
 </div>
 
