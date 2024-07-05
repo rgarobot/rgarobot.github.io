@@ -2,21 +2,21 @@ phone: "+82-2-6207-0210"
 fax: "+82-2-6207-0215"
 email: "rgarobot@rgarobot.com"
 address: "11F, 171 Saimdang-ro, Seocho-gu, Seoul, Republic of Korea"
-map_link: "https://www.google.co.kr/maps/place/서울특별시+서초구+서초대로+396/data=!3m1!4b1!4m6!3m5!1s0x357ca15b9cf43289:0xc22bf9d1990153c4!8m2!3d37.4967189!4d127.0245781!16s%2Fg%2F11bzmp78x3?hl=ko&entry=ttu"
+map_link: "https://www.google.com/maps/place/EWR+빌딩/data=!3m1!4b1!4m6!3m5!1s0x357ca138a9e71741:0xe66ff4253609b3c5!8m2!3d37.4926879!4d127.0283551!16s%2Fg%2F11fk1r7741?entry=ttu"
 
 en:
   phone: "+82-2-6207-0210"
   fax: "+82-2-6207-0215"
   email: "rgarobot@rgarobot.com"
   address: "11F, 171 Saimdang-ro, Seocho-gu, Seoul, Republic of Korea"
-  map_link: "https://www.google.co.kr/maps/place/서울특별시+서초구+서초대로+396/data=!3m1!4b1!4m6!3m5!1s0x357ca15b9cf43289:0xc22bf9d1990153c4!8m2!3d37.4967189!4d127.0245781!16s%2Fg%2F11bzmp78x3?hl=ko&entry=ttu"
+  map_link: "https://www.google.com/maps/place/EWR+빌딩/data=!3m1!4b1!4m6!3m5!1s0x357ca138a9e71741:0xe66ff4253609b3c5!8m2!3d37.4926879!4d127.0283551!16s%2Fg%2F11fk1r7741?entry=ttu"
 
 ko:
   phone: "+82-2-6207-0210"
   fax: "+82-2-6207-0215"
   email: "rgarobot@rgarobot.com"
   address: "서울특별시 서초구 사임당로 171 (EWR빌딩), 11층"
-  map_link: "https://www.google.co.kr/maps/place/서울특별시+서초구+서초대로+396/data=!3m1!4b1!4m6!3m5!1s0x357ca15b9cf43289:0xc22bf9d1990153c4!8m2!3d37.4967189!4d127.0245781!16s%2Fg%2F11bzmp78x3?hl=ko&entry=ttu"
+  map_link: "https://www.google.com/maps/place/EWR+빌딩/data=!3m1!4b1!4m6!3m5!1s0x357ca138a9e71741:0xe66ff4253609b3c5!8m2!3d37.4926879!4d127.0283551!16s%2Fg%2F11fk1r7741?entry=ttu"
 
 
 #phone: 
